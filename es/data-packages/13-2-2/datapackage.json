@@ -1,0 +1,59 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Emisiones totales de gases de efecto invernadero por año",
+                "Emisiones totales de gases de efecto invernadero por unidad de PIB",
+                "Emisiones totales de gases de efecto invernadero per cápita",
+                "Emisiones de gases de efecto invernadero respecto al año 1990",
+                "Emisiones de gases de efecto invernadero respecto al año 2005",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Toneladas de CO2 - equivalente",
+                "Kg de CO2 equivalente por euro de PIB",
+                "Toneladas de CO2 equivalente per cápita",
+                "Porcentaje",
+                ""
+              ]
+            },
+            "title": "Unidad"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "13-2-2",
+  "title": "Total greenhouse gas emissions per year"
+}

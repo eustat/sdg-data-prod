@@ -1,0 +1,70 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EU_SDG_15_20_KM2",
+                "EU_SDG_15_20_PT",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Ecosistema",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "LC_TRE",
+                "LC_WL",
+                "LC_GRS",
+                "LC_CRP",
+                "LC_ART",
+                "LC_OL",
+                ""
+              ]
+            },
+            "title": "Ecosistema"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "KM2",
+                "PT",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "15-1-E1",
+  "title": "GRAFICO.15-1-E1-titulo"
+}

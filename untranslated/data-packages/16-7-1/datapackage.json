@@ -1,0 +1,84 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SG_DMK_PARLMP_LC",
+                "SG_DMK_PSRVC",
+                "SG_DMK_JDC",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Institucion",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EU_DMK_PSRVC_AUT",
+                "EU_DMK_PSRVC_LOC",
+                "EU_DMK_PSRVC_NAC",
+                "EU_DMK_SAN_AUT",
+                "EU_DMK_EDU_AUT",
+                "EU_DMK_DF",
+                "EU_DMK_MUN",
+                "EU_DMK_UNI",
+                "EU_DMK_POL_AUT",
+                "EU_DMK_JUST_AUT",
+                "EU_DMK_JUST_NAC",
+                "EU_DMK_FCSE",
+                "EU_DMK_FA",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ES211",
+                "ES213",
+                "ES212",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "RO",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-7-1",
+  "title": "Proportions of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups"
+}

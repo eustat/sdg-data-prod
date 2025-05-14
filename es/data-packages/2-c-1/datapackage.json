@@ -1,0 +1,85 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Indicador de anomalías en los precios de los alimentos",
+                "Índice de precio de los alimentos",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "Alimento",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Alimentos (total)",
+                "Pan y cereales",
+                "Pan",
+                "Cereales y derivados",
+                "Huevos",
+                "Leche",
+                "Aceites y grasas",
+                "Frutas frescas",
+                "Legumbres y hortalizas frescas",
+                ""
+              ]
+            },
+            "title": "Alimento"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
+                ""
+              ]
+            },
+            "title": "Territorio histórico"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Índice",
+                ""
+              ]
+            },
+            "title": "Unidad"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-c-1",
+  "title": "Indicator of food price anomalies"
+}

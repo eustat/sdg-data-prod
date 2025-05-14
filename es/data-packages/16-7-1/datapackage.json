@@ -1,0 +1,90 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proporción de mujeres en el parlamento en relación con la proporción de mujeres en la población",
+                "Proporción de mujeres en la administración pública en relación con la proporción de mujeres en la población",
+                "Proporción de mujeres en el poder judicial en relación con la proporción de mujeres en la población",
+                ""
+              ]
+            },
+            "title": "Serie"
+          },
+          {
+            "name": "Institucion",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Sector público autonómico",
+                "Sector público local",
+                "Sector público estatal",
+                "Instituciones sanitarias autonómicas",
+                "Centros educativos no universitarios autonómicos",
+                "Diputaciones forales",
+                "Ayuntamientos",
+                "Universidades",
+                "Policía autonómica",
+                "Administración de Justicia autonómica",
+                "Administración de Justicia del Estado",
+                "Fuerzas y cuerpos de seguridad del Estado",
+                "Fuerzas armadas",
+                ""
+              ]
+            },
+            "title": "Institución"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
+                ""
+              ]
+            },
+            "title": "Territorio histórico"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ratio",
+                ""
+              ]
+            },
+            "title": "Unidad"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Valor"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "16-7-1",
+  "title": "Proportions of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups"
+}

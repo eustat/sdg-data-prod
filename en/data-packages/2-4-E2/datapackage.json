@@ -1,0 +1,66 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "EU_SDG_02_60_KG_PER_HA",
+                "EU_SDG_02_60_KT",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Actividad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NFR_3DF",
+                "NFR_3B",
+                ""
+              ]
+            },
+            "title": "Actividad"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "KG_PER_HA",
+                "KT",
+                ""
+              ]
+            },
+            "title": "Units"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-4-E2",
+  "title": "Emisiones de amoníaco de la agricultura y ganadería (<b>Indicador UE sdg_02_60</b>)"
+}

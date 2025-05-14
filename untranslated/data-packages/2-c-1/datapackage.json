@@ -1,0 +1,79 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "AG_FPA_CFPI",
+                "EU_FPA_IPC",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Alimento",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ECOICOP011",
+                "ECOICOP_RUB_01_02",
+                "ECOICOP_RUB_02",
+                "ECOICOP_RUB_01",
+                "ECOICOP_RUB_10",
+                "ECOICOP_RUB_11",
+                "ECOICOP_RUB_13",
+                "ECOICOP_RUB_14",
+                "ECOICOP_RUB_16",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ES211",
+                "ES213",
+                "ES212",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IX",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-c-1",
+  "title": "Indicator of food price anomalies"
+}
