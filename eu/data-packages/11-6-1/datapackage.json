@@ -13,63 +13,63 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Urtea"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_W_GENPCAP",
-                "EN_REF_WASCOL",
-                "EN_MWT_TREATV",
+                "Biztanle bakoitzeko bildutako hiri-hondakinak",
+                "Instalazio kontrolatuetan bildu eta administratutako hiri-hondakinen proportzioa",
+                "Tratatutako hiri-hondakinen proportzioa, tratamendu-motaren arabera banakatuta",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Seriea"
           },
           {
             "name": "Tratamiento",
             "type": "string",
             "constraints": {
               "enum": [
-                "WT_RECYC",
-                "WT_INCINRT_EGY",
-                "WT_LANDFIL",
+                "Birziklatzea",
+                "Errausketa, energia berreskurapenarekin",
+                "Zabortegia",
                 ""
               ]
             },
-            "title": "Tratamiento"
+            "title": "Hondakinen tratamendua"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "Araba / Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Lurralde historikoa"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "KG_PER_CAPITA",
-                "PT",
+                "Kg per capita",
+                "%",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unitatea"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       }

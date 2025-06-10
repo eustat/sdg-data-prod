@@ -13,48 +13,48 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Urtea"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "SE_TRA_GRDL",
+                "Eskatutako gutxieneko kalifikazioak dituzten irakasleen proportzioa, hezkuntza-mailaren arabera banakatuta",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Seriea"
           },
           {
             "name": "Educacion",
             "type": "string",
             "constraints": {
               "enum": [
-                "ISCED11_0",
-                "ISCED11_1",
-                "ISCED11_2",
-                "ISCED11_3",
+                "Eskolaurrea",
+                "Lehen hezkuntza",
+                "Bigarren hezkuntzako lehenengo etapa",
+                "Bigarren hezkuntzako bigarren etapa",
                 ""
               ]
             },
-            "title": "Educacion"
+            "title": "Hezkuntza-maila"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unitatea"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       }

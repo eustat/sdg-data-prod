@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SE_TOT_CPLR",
+                "Completion rate (lower secondary and upper secondary education)",
                 ""
               ]
             },
@@ -31,12 +31,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ISCED11_2",
-                "ISCED11_3",
+                "Lower secondary",
+                "Upper secondary",
                 ""
               ]
             },
-            "title": "Educacion"
+            "title": "Educational level"
           },
           {
             "name": "Units",
@@ -47,7 +47,7 @@
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

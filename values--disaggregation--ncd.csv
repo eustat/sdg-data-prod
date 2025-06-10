@@ -1,6 +1,6 @@
-Value,es,eu,en,Disaggregation combinations using this value,Number of indicators
-CARDIO,Enfermedades cardiovasculares,CARDIO,CARDIO,12,1
-CNCR,Cáncer,CNCR,CNCR,12,1
-CRESPD,Enfermedades respiratorias crónicas,CRESPD,CRESPD,12,1
-DIABTS,Diabetes,DIABTS,DIABTS,12,1
-NCOM,"Enfermedades cardiovasculares, respiratorias crónicas, cáncer o diabetes",NCOM,NCOM,15,1
+Value,eu,es,en,Disaggregation combinations using this value,Number of indicators
+CARDIO,Gaixotasun kardiobaskularrak,Enfermedades cardiovasculares,Cardiovascular diseases,12,1
+CNCR,Minbizia,Cáncer,Cancer,12,1
+CRESPD,Arnas gaixotasun kronikoak,Enfermedades respiratorias crónicas,Chronic respiratory diseases,12,1
+DIABTS,Diabetesa,Diabetes,Diabetes,12,1
+NCOM,"Gaixotasun kardiobaskularrak, arnas gaixotasun kronikoak, minbizia edo diabetesa","Enfermedades cardiovasculares, respiratorias crónicas, cáncer o diabetes","Cardiovascular diseases, chronic respiratory diseases, cancer, or diabetes",15,1

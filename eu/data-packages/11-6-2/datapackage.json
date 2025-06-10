@@ -13,46 +13,46 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Urtea"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "EN_ATM_PM25",
+                "Partikula fin esekien urteko batez besteko mailak (PM2.5 eta PM10) hirietan (biztanleriaren arabera haztatuta)",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Seriea"
           },
           {
             "name": "PM",
             "type": "string",
             "constraints": {
               "enum": [
-                "PM25",
-                "PM10",
+                "PM 2,5",
+                "PM 10",
                 ""
               ]
             },
-            "title": "PM"
+            "title": "Partikula esekiak"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "GPERM3",
+                "Mikrogramoak metro kubikoko",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unitatea"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       }

@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SE_TRA_GRDL",
+                "Proportion of teachers with the minimum required qualifications, broken down by educational level",
                 ""
               ]
             },
@@ -31,14 +31,14 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ISCED11_0",
-                "ISCED11_1",
-                "ISCED11_2",
-                "ISCED11_3",
+                "Pre-primary",
+                "Primary",
+                "Lower secondary",
+                "Upper secondary",
                 ""
               ]
             },
-            "title": "Educacion"
+            "title": "Educational level"
           },
           {
             "name": "Units",
@@ -49,7 +49,7 @@
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

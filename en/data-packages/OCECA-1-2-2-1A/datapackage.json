@@ -16,6 +16,19 @@
             "title": "Year"
           },
           {
+            "name": "Pobreza",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Risk of poverty (monetary)",
+                "Severe material and social deprivation",
+                "Low work intensity",
+                ""
+              ]
+            },
+            "title": "Dimension of poverty"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -24,7 +37,7 @@
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

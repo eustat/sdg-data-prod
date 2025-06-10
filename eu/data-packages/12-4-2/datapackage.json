@@ -13,63 +13,63 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Urtea"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "EN_HAZ_PCAP",
-                "EN_HAZ_TREAT",
+                "Hondakin arriskutsuak biztanleko",
+                "Tratatutako hondakin arriskutsuen proportzioa, tratamendu motaren arabera banakatuta",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Seriea"
           },
           {
             "name": "Tratamiento",
             "type": "string",
             "constraints": {
               "enum": [
-                "WT_RECYC",
-                "WT_INCINRT_EGY",
-                "WT_LANDFIL",
-                "WT_INCINRT",
+                "Birziklatzea",
+                "Errausketa, energia berreskurapenarekin",
+                "Zabortegia",
+                "Errausketa, energia berreskurapenik gabe",
                 ""
               ]
             },
-            "title": "Tratamiento"
+            "title": "Hondakinen tratamendua"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "Araba / Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Lurralde historikoa"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "KG_PER_CAPITA",
-                "PT",
+                "Kg per capita",
+                "%",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unitatea"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       }

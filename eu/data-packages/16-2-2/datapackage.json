@@ -13,38 +13,38 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Urtea"
           },
           {
             "name": "Explotacion",
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_HTF_DETVFL",
-                "VC_HTF_DETVOGR",
-                "EU_HTF_DETVR",
-                "EU_HTF_DETVSXR",
-                "VC_HTF_DETVOP",
+                "Lan behartua, morrontza eta esklabotza",
+                "Organoak lortzea",
+                "Pertsonen salerosketa (helburu guztiak)",
+                "Sexu-esplotazioa",
+                "Beste helburu batzuk",
                 ""
               ]
             },
-            "title": "Explotacion"
+            "title": "Ustiategi mota"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "PER_100000",
+                "100.000 biztanleko",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unitatea"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       }

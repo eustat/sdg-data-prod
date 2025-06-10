@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "NV_IND_MANF",
-                "NV_IND_MANFPC",
+                "Value added by the manufacturing sector as a proportion of GDP",
+                "Value added by the manufacturing sector per capita",
                 ""
               ]
             },
@@ -32,13 +32,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES212",
-                "ES213",
+                "Araba/Álava",
+                "Gipuzkoa",
+                "Bizkaia",
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Province"
           },
           {
             "name": "Units",
@@ -46,11 +46,11 @@
             "constraints": {
               "enum": [
                 "PT",
-                "EUR_PER_CAPITA",
+                "Euro per capita",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

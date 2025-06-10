@@ -13,74 +13,74 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Urtea"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_GPI_TRN",
-                "EU_SESPI",
-                "EU_RUPI_TRN",
-                "EU_PI_HEALTH",
+                "Genero-parekotasunaren indizea",
+                "Diru-sarreren parekotasun-indizea (goiko eta beheko kintilak)",
+                "Paritate-indizea kokapenean (10.000 biztanletik gorako eta beherako udalerriak)",
+                "Parekotasun-indizea osasunean",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Seriea"
           },
           {
             "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Emakumea",
+                "Gizona",
                 ""
               ]
             },
-            "title": "Sexo"
+            "title": "Sexua"
           },
           {
             "name": "Edad",
             "type": "string",
             "constraints": {
               "enum": [
-                "Y15T64",
-                "Y18T64",
+                "15-64 urte",
+                "18-64 urte",
                 ""
               ]
             },
-            "title": "Edad"
+            "title": "Adina"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "Araba / Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Lurralde historikoa"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "RO",
+                "Ratioa",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unitatea"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       }

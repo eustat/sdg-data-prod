@@ -13,34 +13,23 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
-          },
-          {
-            "name": "Edad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Y18T49",
-                ""
-              ]
-            },
-            "title": "Edad"
+            "title": "Urtea"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unitatea"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       }

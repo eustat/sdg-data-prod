@@ -13,52 +13,52 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Urtea"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_SDG_15_20_KM2",
-                "EU_SDG_15_20_PT",
+                "Babestutako lur-eremuen azalera (Km2)",
+                "Lurrazal babestuak lurrazalarekiko duen proportzioa",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Seriea"
           },
           {
             "name": "Ecosistema",
             "type": "string",
             "constraints": {
               "enum": [
-                "LC_TRE",
-                "LC_WL",
-                "LC_GRS",
-                "LC_CRP",
-                "LC_ART",
-                "LC_OL",
+                "Basoak",
+                "Hezeguneak",
+                "Larreak",
+                "Laborantza-lurrak",
+                "Asentamenduak",
+                "Beste lur batzuk",
                 ""
               ]
             },
-            "title": "Ecosistema"
+            "title": "Ekosistema"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "KM2",
-                "PT",
+                "Kilometro koadroak",
+                "%",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unitatea"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       }
@@ -66,5 +66,5 @@
   ],
   "profile": "data-package",
   "name": "15-1-E1",
-  "title": "GRAFICO.15-1-E1-titulo"
+  "title": "Babestutako lehorreko eremuen azalera (km2 eta ehunekoa) (EBren sdg_15_20 adierazlea)"
 }

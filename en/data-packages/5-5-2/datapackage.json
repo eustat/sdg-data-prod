@@ -20,26 +20,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "CNO2011_1",
-                "CNO2011_11_12_13",
-                "SELF_EMP",
+                "Managerial position",
+                "Senior management",
+                "Businesswoman",
                 ""
               ]
             },
-            "title": "Ocupacion"
+            "title": "Occupation"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Province"
           },
           {
             "name": "Units",
@@ -50,7 +50,7 @@
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

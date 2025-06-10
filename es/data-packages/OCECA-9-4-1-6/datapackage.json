@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Emisiones de CO2 respecto al año 2005",
+                "_L_ES_090401_06",
                 ""
               ]
             },
@@ -48,5 +48,5 @@
   ],
   "profile": "data-package",
   "name": "OCECA-9-4-1-6",
-  "title": "Emisiones de CO2 respecto al año 2005"
+  "title": "Emisiones de $CO_2$ respecto al año 2005"
 }

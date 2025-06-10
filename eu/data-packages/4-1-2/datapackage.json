@@ -13,46 +13,46 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Urtea"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "SE_TOT_CPLR",
+                "Amaiera-tasa (beheko bigarren hezkuntza eta goi-mailako bigarren hezkuntza)",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Seriea"
           },
           {
             "name": "Educacion",
             "type": "string",
             "constraints": {
               "enum": [
-                "ISCED11_2",
-                "ISCED11_3",
+                "Bigarren hezkuntzako lehenengo etapa",
+                "Bigarren hezkuntzako bigarren etapa",
                 ""
               ]
             },
-            "title": "Educacion"
+            "title": "Hezkuntza-maila"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unitatea"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       }

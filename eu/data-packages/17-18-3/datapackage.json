@@ -13,23 +13,23 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Urtea"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "BOOL_YES_NO",
+                "Logika (1 = Bai, 0 = Ez)",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unitatea"
           },
           {
             "name": "Value",
             "type": "integer",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       }

@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "POSTFIS_DIS_INC",
+                "Gini coefficient of equivalent disposable income (post-fiscal)",
                 ""
               ]
             },
@@ -35,7 +35,7 @@
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

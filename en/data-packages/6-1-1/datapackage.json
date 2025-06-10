@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SH_H2O_SAFE",
+                "Population using safely managed drinking water services.",
                 ""
               ]
             },
@@ -35,7 +35,7 @@
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

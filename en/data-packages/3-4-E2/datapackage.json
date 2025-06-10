@@ -20,8 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_LE_Y0",
-                "EU_HLY_Y0",
+                "Life expectancy at birth",
                 ""
               ]
             },
@@ -32,36 +31,36 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Female",
+                "Male",
                 ""
               ]
             },
-            "title": "Sexo"
+            "title": "Sex"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "Araba/Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Province"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "YR",
+                "Years",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",
@@ -74,5 +73,5 @@
   ],
   "profile": "data-package",
   "name": "3-4-E2",
-  "title": "Esperanza de vida y esperanza de vida en buena salud (<b>Indicador Gobierno Vasco</b>)"
+  "title": "Esperanza de vida al nacer (<b>Indicador Gobierno Vasco</b>)"
 }

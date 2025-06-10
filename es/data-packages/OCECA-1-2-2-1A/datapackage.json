@@ -7,7 +7,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "mac-roman",
       "schema": {
         "fields": [
           {
@@ -16,11 +16,24 @@
             "title": "Año"
           },
           {
+            "name": "Pobreza",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Riesgo de pobreza (monetaria)",
+                "Carencia material y social severa",
+                "Baja intensidad de trabajo",
+                ""
+              ]
+            },
+            "title": "Dimensión de la pobreza"
+          },
+          {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "Porcentaje",
+                "%",
                 ""
               ]
             },

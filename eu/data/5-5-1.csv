@@ -1,165 +1,165 @@
-Year,Institucion,Territorio,Units,Value
-2023,GEN_PARL,,PT,49.3
-2024,GEN_PARL,,PT,52.0
-2019,GEN_PARL,,PT,53.3
-2018,GEN_PARL,,PT,53.3
-2016,GEN_PARL,,PT,53.3
-2014,GEN_PARL,,PT,49.3
-2015,GEN_PARL,,PT,49.3
-2020,GEN_PARL,,PT,50.7
-2017,GEN_PARL,,PT,53.3
-2022,GEN_PARL,,PT,50.7
-2012,GEN_PARL,,PT,49.3
-2013,GEN_PARL,,PT,49.3
-2011,GEN_PARL,,PT,45.3
-2010,GEN_PARL,,PT,45.3
-2021,GEN_PARL,,PT,50.7
-2017,GEN_G,,PT,41.7
-2016,GEN_G,,PT,50.0
-2023,GEN_G,,PT,45.5
-2013,GEN_G,,PT,50.0
-2021,GEN_G,,PT,45.5
-2024,GEN_G,,PT,46.7
-2014,GEN_G,,PT,50.0
-2019,GEN_G,,PT,63.6
-2012,GEN_G,,PT,50.0
-2010,GEN_G,,PT,45.5
-2022,GEN_G,,PT,45.5
-2011,GEN_G,,PT,50.0
-2020,GEN_G,,PT,45.5
-2015,GEN_G,,PT,50.0
-2018,GEN_G,,PT,41.7
-2015,GEN_REGIOG,,PT,50.0
-2016,GEN_REGIOG,,PT,50.0
-2013,GEN_REGIOG,,PT,42.3
-2020,GEN_REGIOG,,PT,55.2
-2017,GEN_REGIOG,,PT,50.0
-2018,GEN_REGIOG,,PT,50.0
-2021,GEN_REGIOG,,PT,55.2
-2011,GEN_REGIOG,,PT,42.3
-2022,GEN_REGIOG,,PT,51.7
-2019,GEN_REGIOG,,PT,55.2
-2012,GEN_REGIOG,,PT,42.3
-2014,GEN_REGIOG,,PT,42.3
-2010,GEN_REGIOG,,PT,36.4
-2018,GEN_REGIOG,ES211,PT,50.0
-2022,GEN_REGIOG,ES211,PT,55.6
-2021,GEN_REGIOG,ES211,PT,66.7
-2019,GEN_REGIOG,ES211,PT,66.7
-2016,GEN_REGIOG,ES211,PT,50.0
-2017,GEN_REGIOG,ES211,PT,50.0
-2015,GEN_REGIOG,ES211,PT,50.0
-2013,GEN_REGIOG,ES211,PT,50.0
-2010,GEN_REGIOG,ES211,PT,40.0
-2014,GEN_REGIOG,ES211,PT,50.0
-2012,GEN_REGIOG,ES211,PT,50.0
-2020,GEN_REGIOG,ES211,PT,66.7
-2011,GEN_REGIOG,ES211,PT,50.0
-2017,GEN_REGIOG,ES213,PT,55.6
-2014,GEN_REGIOG,ES213,PT,40.0
-2018,GEN_REGIOG,ES213,PT,55.6
-2012,GEN_REGIOG,ES213,PT,40.0
-2020,GEN_REGIOG,ES213,PT,50.0
-2021,GEN_REGIOG,ES213,PT,50.0
-2019,GEN_REGIOG,ES213,PT,50.0
-2016,GEN_REGIOG,ES213,PT,55.6
-2015,GEN_REGIOG,ES213,PT,55.6
-2013,GEN_REGIOG,ES213,PT,40.0
-2010,GEN_REGIOG,ES213,PT,33.3
-2022,GEN_REGIOG,ES213,PT,50.0
-2011,GEN_REGIOG,ES213,PT,40.0
-2021,GEN_REGIOG,ES212,PT,50.0
-2019,GEN_REGIOG,ES212,PT,50.0
-2017,GEN_REGIOG,ES212,PT,44.4
-2011,GEN_REGIOG,ES212,PT,37.5
-2010,GEN_REGIOG,ES212,PT,36.4
-2014,GEN_REGIOG,ES212,PT,37.5
-2015,GEN_REGIOG,ES212,PT,44.4
-2018,GEN_REGIOG,ES212,PT,44.4
-2012,GEN_REGIOG,ES212,PT,37.5
-2016,GEN_REGIOG,ES212,PT,44.4
-2013,GEN_REGIOG,ES212,PT,37.5
-2020,GEN_REGIOG,ES212,PT,50.0
-2022,GEN_REGIOG,ES212,PT,50.0
-2010,GEN_REGIOPARL,,PT,41.2
-2021,GEN_REGIOPARL,,PT,54.2
-2015,GEN_REGIOPARL,,PT,48.1
-2020,GEN_REGIOPARL,,PT,54.2
-2017,GEN_REGIOPARL,,PT,48.1
-2018,GEN_REGIOPARL,,PT,48.1
-2012,GEN_REGIOPARL,,PT,48.4
-2022,GEN_REGIOPARL,,PT,54.2
-2019,GEN_REGIOPARL,,PT,54.2
-2016,GEN_REGIOPARL,,PT,48.1
-2011,GEN_REGIOPARL,,PT,48.4
-2013,GEN_REGIOPARL,,PT,48.4
-2014,GEN_REGIOPARL,,PT,48.4
-2010,GEN_REGIOPARL,ES211,PT,41.2
-2014,GEN_REGIOPARL,ES211,PT,51.0
-2012,GEN_REGIOPARL,ES211,PT,51.0
-2020,GEN_REGIOPARL,ES211,PT,56.9
-2022,GEN_REGIOPARL,ES211,PT,56.9
-2021,GEN_REGIOPARL,ES211,PT,56.9
-2019,GEN_REGIOPARL,ES211,PT,56.9
-2018,GEN_REGIOPARL,ES211,PT,45.1
-2017,GEN_REGIOPARL,ES211,PT,45.1
-2016,GEN_REGIOPARL,ES211,PT,45.1
-2015,GEN_REGIOPARL,ES211,PT,45.1
-2013,GEN_REGIOPARL,ES211,PT,51.0
-2011,GEN_REGIOPARL,ES211,PT,51.0
-2022,GEN_REGIOPARL,ES213,PT,51.0
-2021,GEN_REGIOPARL,ES213,PT,51.0
-2019,GEN_REGIOPARL,ES213,PT,51.0
-2018,GEN_REGIOPARL,ES213,PT,49.0
-2017,GEN_REGIOPARL,ES213,PT,49.0
-2015,GEN_REGIOPARL,ES213,PT,49.0
-2014,GEN_REGIOPARL,ES213,PT,45.1
-2013,GEN_REGIOPARL,ES213,PT,45.1
-2012,GEN_REGIOPARL,ES213,PT,45.1
-2011,GEN_REGIOPARL,ES213,PT,45.1
-2010,GEN_REGIOPARL,ES213,PT,39.2
-2020,GEN_REGIOPARL,ES213,PT,51.0
-2016,GEN_REGIOPARL,ES213,PT,49.0
-2010,GEN_REGIOPARL,ES212,PT,43.1
-2011,GEN_REGIOPARL,ES212,PT,49.0
-2013,GEN_REGIOPARL,ES212,PT,49.0
-2017,GEN_REGIOPARL,ES212,PT,50.0
-2019,GEN_REGIOPARL,ES212,PT,54.9
-2022,GEN_REGIOPARL,ES212,PT,54.9
-2018,GEN_REGIOPARL,ES212,PT,50.0
-2020,GEN_REGIOPARL,ES212,PT,54.9
-2021,GEN_REGIOPARL,ES212,PT,54.9
-2016,GEN_REGIOPARL,ES212,PT,50.0
-2015,GEN_REGIOPARL,ES212,PT,50.0
-2014,GEN_REGIOPARL,ES212,PT,49.0
-2012,GEN_REGIOPARL,ES212,PT,49.0
-2013,GEN_LOCG,,PT,22.3
-2022,GEN_LOCG,,PT,30.3
-2014,GEN_LOCG,,PT,23.1
-2017,GEN_LOCG,,PT,25.2
-2011,GEN_LOCG,,PT,22.0
-2023,GEN_LOCG,,PT,33.1
-2012,GEN_LOCG,,PT,22.0
-2024,GEN_LOCG,,PT,34.3
-2019,GEN_LOCG,,PT,29.2
-2015,GEN_LOCG,,PT,25.2
-2010,GEN_LOCG,,PT,19.9
-2021,GEN_LOCG,,PT,30.3
-2018,GEN_LOCG,,PT,25.2
-2016,GEN_LOCG,,PT,25.2
-2020,GEN_LOCG,,PT,29.2
-2020,GEN_LOCP,,PT,47.8
-2024,GEN_LOCP,,PT,46.5
-2022,GEN_LOCP,,PT,47.5
-2016,GEN_LOCP,,PT,41.4
-2017,GEN_LOCP,,PT,41.4
-2010,GEN_LOCP,,PT,27.8
-2015,GEN_LOCP,,PT,41.4
-2011,GEN_LOCP,,PT,40.4
-2012,GEN_LOCP,,PT,40.4
-2021,GEN_LOCP,,PT,47.5
-2018,GEN_LOCP,,PT,41.4
-2013,GEN_LOCP,,PT,40.5
-2023,GEN_LOCP,,PT,48.3
-2019,GEN_LOCP,,PT,47.8
-2014,GEN_LOCP,,PT,40.3
+Year,Erakundea,Lurralde historikoa,Units,Value
+2023,Legebiltzar autonomikoko hautetsiak,,%,49.3
+2024,Legebiltzar autonomikoko hautetsiak,,%,52.0
+2019,Legebiltzar autonomikoko hautetsiak,,%,53.3
+2018,Legebiltzar autonomikoko hautetsiak,,%,53.3
+2016,Legebiltzar autonomikoko hautetsiak,,%,53.3
+2014,Legebiltzar autonomikoko hautetsiak,,%,49.3
+2015,Legebiltzar autonomikoko hautetsiak,,%,49.3
+2020,Legebiltzar autonomikoko hautetsiak,,%,50.7
+2017,Legebiltzar autonomikoko hautetsiak,,%,53.3
+2022,Legebiltzar autonomikoko hautetsiak,,%,50.7
+2012,Legebiltzar autonomikoko hautetsiak,,%,49.3
+2013,Legebiltzar autonomikoko hautetsiak,,%,49.3
+2011,Legebiltzar autonomikoko hautetsiak,,%,45.3
+2010,Legebiltzar autonomikoko hautetsiak,,%,45.3
+2021,Legebiltzar autonomikoko hautetsiak,,%,50.7
+2017,Sailburuak gobernu autonomikoan,,%,41.7
+2016,Sailburuak gobernu autonomikoan,,%,50.0
+2023,Sailburuak gobernu autonomikoan,,%,45.5
+2013,Sailburuak gobernu autonomikoan,,%,50.0
+2021,Sailburuak gobernu autonomikoan,,%,45.5
+2024,Sailburuak gobernu autonomikoan,,%,46.7
+2014,Sailburuak gobernu autonomikoan,,%,50.0
+2019,Sailburuak gobernu autonomikoan,,%,63.6
+2012,Sailburuak gobernu autonomikoan,,%,50.0
+2010,Sailburuak gobernu autonomikoan,,%,45.5
+2022,Sailburuak gobernu autonomikoan,,%,45.5
+2011,Sailburuak gobernu autonomikoan,,%,50.0
+2020,Sailburuak gobernu autonomikoan,,%,45.5
+2015,Sailburuak gobernu autonomikoan,,%,50.0
+2018,Sailburuak gobernu autonomikoan,,%,41.7
+2015,Foru-gobernuetako sailburuak,,%,50.0
+2016,Foru-gobernuetako sailburuak,,%,50.0
+2013,Foru-gobernuetako sailburuak,,%,42.3
+2020,Foru-gobernuetako sailburuak,,%,55.2
+2017,Foru-gobernuetako sailburuak,,%,50.0
+2018,Foru-gobernuetako sailburuak,,%,50.0
+2021,Foru-gobernuetako sailburuak,,%,55.2
+2011,Foru-gobernuetako sailburuak,,%,42.3
+2022,Foru-gobernuetako sailburuak,,%,51.7
+2019,Foru-gobernuetako sailburuak,,%,55.2
+2012,Foru-gobernuetako sailburuak,,%,42.3
+2014,Foru-gobernuetako sailburuak,,%,42.3
+2010,Foru-gobernuetako sailburuak,,%,36.4
+2018,Foru-gobernuetako sailburuak,Araba / Álava,%,50.0
+2022,Foru-gobernuetako sailburuak,Araba / Álava,%,55.6
+2021,Foru-gobernuetako sailburuak,Araba / Álava,%,66.7
+2019,Foru-gobernuetako sailburuak,Araba / Álava,%,66.7
+2016,Foru-gobernuetako sailburuak,Araba / Álava,%,50.0
+2017,Foru-gobernuetako sailburuak,Araba / Álava,%,50.0
+2015,Foru-gobernuetako sailburuak,Araba / Álava,%,50.0
+2013,Foru-gobernuetako sailburuak,Araba / Álava,%,50.0
+2010,Foru-gobernuetako sailburuak,Araba / Álava,%,40.0
+2014,Foru-gobernuetako sailburuak,Araba / Álava,%,50.0
+2012,Foru-gobernuetako sailburuak,Araba / Álava,%,50.0
+2020,Foru-gobernuetako sailburuak,Araba / Álava,%,66.7
+2011,Foru-gobernuetako sailburuak,Araba / Álava,%,50.0
+2017,Foru-gobernuetako sailburuak,Bizkaia,%,55.6
+2014,Foru-gobernuetako sailburuak,Bizkaia,%,40.0
+2018,Foru-gobernuetako sailburuak,Bizkaia,%,55.6
+2012,Foru-gobernuetako sailburuak,Bizkaia,%,40.0
+2020,Foru-gobernuetako sailburuak,Bizkaia,%,50.0
+2021,Foru-gobernuetako sailburuak,Bizkaia,%,50.0
+2019,Foru-gobernuetako sailburuak,Bizkaia,%,50.0
+2016,Foru-gobernuetako sailburuak,Bizkaia,%,55.6
+2015,Foru-gobernuetako sailburuak,Bizkaia,%,55.6
+2013,Foru-gobernuetako sailburuak,Bizkaia,%,40.0
+2010,Foru-gobernuetako sailburuak,Bizkaia,%,33.3
+2022,Foru-gobernuetako sailburuak,Bizkaia,%,50.0
+2011,Foru-gobernuetako sailburuak,Bizkaia,%,40.0
+2021,Foru-gobernuetako sailburuak,Gipuzkoa,%,50.0
+2019,Foru-gobernuetako sailburuak,Gipuzkoa,%,50.0
+2017,Foru-gobernuetako sailburuak,Gipuzkoa,%,44.4
+2011,Foru-gobernuetako sailburuak,Gipuzkoa,%,37.5
+2010,Foru-gobernuetako sailburuak,Gipuzkoa,%,36.4
+2014,Foru-gobernuetako sailburuak,Gipuzkoa,%,37.5
+2015,Foru-gobernuetako sailburuak,Gipuzkoa,%,44.4
+2018,Foru-gobernuetako sailburuak,Gipuzkoa,%,44.4
+2012,Foru-gobernuetako sailburuak,Gipuzkoa,%,37.5
+2016,Foru-gobernuetako sailburuak,Gipuzkoa,%,44.4
+2013,Foru-gobernuetako sailburuak,Gipuzkoa,%,37.5
+2020,Foru-gobernuetako sailburuak,Gipuzkoa,%,50.0
+2022,Foru-gobernuetako sailburuak,Gipuzkoa,%,50.0
+2010,Batzar Nagusietako hautetsiak,,%,41.2
+2021,Batzar Nagusietako hautetsiak,,%,54.2
+2015,Batzar Nagusietako hautetsiak,,%,48.1
+2020,Batzar Nagusietako hautetsiak,,%,54.2
+2017,Batzar Nagusietako hautetsiak,,%,48.1
+2018,Batzar Nagusietako hautetsiak,,%,48.1
+2012,Batzar Nagusietako hautetsiak,,%,48.4
+2022,Batzar Nagusietako hautetsiak,,%,54.2
+2019,Batzar Nagusietako hautetsiak,,%,54.2
+2016,Batzar Nagusietako hautetsiak,,%,48.1
+2011,Batzar Nagusietako hautetsiak,,%,48.4
+2013,Batzar Nagusietako hautetsiak,,%,48.4
+2014,Batzar Nagusietako hautetsiak,,%,48.4
+2010,Batzar Nagusietako hautetsiak,Araba / Álava,%,41.2
+2014,Batzar Nagusietako hautetsiak,Araba / Álava,%,51.0
+2012,Batzar Nagusietako hautetsiak,Araba / Álava,%,51.0
+2020,Batzar Nagusietako hautetsiak,Araba / Álava,%,56.9
+2022,Batzar Nagusietako hautetsiak,Araba / Álava,%,56.9
+2021,Batzar Nagusietako hautetsiak,Araba / Álava,%,56.9
+2019,Batzar Nagusietako hautetsiak,Araba / Álava,%,56.9
+2018,Batzar Nagusietako hautetsiak,Araba / Álava,%,45.1
+2017,Batzar Nagusietako hautetsiak,Araba / Álava,%,45.1
+2016,Batzar Nagusietako hautetsiak,Araba / Álava,%,45.1
+2015,Batzar Nagusietako hautetsiak,Araba / Álava,%,45.1
+2013,Batzar Nagusietako hautetsiak,Araba / Álava,%,51.0
+2011,Batzar Nagusietako hautetsiak,Araba / Álava,%,51.0
+2022,Batzar Nagusietako hautetsiak,Bizkaia,%,51.0
+2021,Batzar Nagusietako hautetsiak,Bizkaia,%,51.0
+2019,Batzar Nagusietako hautetsiak,Bizkaia,%,51.0
+2018,Batzar Nagusietako hautetsiak,Bizkaia,%,49.0
+2017,Batzar Nagusietako hautetsiak,Bizkaia,%,49.0
+2015,Batzar Nagusietako hautetsiak,Bizkaia,%,49.0
+2014,Batzar Nagusietako hautetsiak,Bizkaia,%,45.1
+2013,Batzar Nagusietako hautetsiak,Bizkaia,%,45.1
+2012,Batzar Nagusietako hautetsiak,Bizkaia,%,45.1
+2011,Batzar Nagusietako hautetsiak,Bizkaia,%,45.1
+2010,Batzar Nagusietako hautetsiak,Bizkaia,%,39.2
+2020,Batzar Nagusietako hautetsiak,Bizkaia,%,51.0
+2016,Batzar Nagusietako hautetsiak,Bizkaia,%,49.0
+2010,Batzar Nagusietako hautetsiak,Gipuzkoa,%,43.1
+2011,Batzar Nagusietako hautetsiak,Gipuzkoa,%,49.0
+2013,Batzar Nagusietako hautetsiak,Gipuzkoa,%,49.0
+2017,Batzar Nagusietako hautetsiak,Gipuzkoa,%,50.0
+2019,Batzar Nagusietako hautetsiak,Gipuzkoa,%,54.9
+2022,Batzar Nagusietako hautetsiak,Gipuzkoa,%,54.9
+2018,Batzar Nagusietako hautetsiak,Gipuzkoa,%,50.0
+2020,Batzar Nagusietako hautetsiak,Gipuzkoa,%,54.9
+2021,Batzar Nagusietako hautetsiak,Gipuzkoa,%,54.9
+2016,Batzar Nagusietako hautetsiak,Gipuzkoa,%,50.0
+2015,Batzar Nagusietako hautetsiak,Gipuzkoa,%,50.0
+2014,Batzar Nagusietako hautetsiak,Gipuzkoa,%,49.0
+2012,Batzar Nagusietako hautetsiak,Gipuzkoa,%,49.0
+2013,Alkatetzak,,%,22.3
+2022,Alkatetzak,,%,30.3
+2014,Alkatetzak,,%,23.1
+2017,Alkatetzak,,%,25.2
+2011,Alkatetzak,,%,22.0
+2023,Alkatetzak,,%,33.1
+2012,Alkatetzak,,%,22.0
+2024,Alkatetzak,,%,34.3
+2019,Alkatetzak,,%,29.2
+2015,Alkatetzak,,%,25.2
+2010,Alkatetzak,,%,19.9
+2021,Alkatetzak,,%,30.3
+2018,Alkatetzak,,%,25.2
+2016,Alkatetzak,,%,25.2
+2020,Alkatetzak,,%,29.2
+2020,Zinegotziak,,%,47.8
+2024,Zinegotziak,,%,46.5
+2022,Zinegotziak,,%,47.5
+2016,Zinegotziak,,%,41.4
+2017,Zinegotziak,,%,41.4
+2010,Zinegotziak,,%,27.8
+2015,Zinegotziak,,%,41.4
+2011,Zinegotziak,,%,40.4
+2012,Zinegotziak,,%,40.4
+2021,Zinegotziak,,%,47.5
+2018,Zinegotziak,,%,41.4
+2013,Zinegotziak,,%,40.5
+2023,Zinegotziak,,%,48.3
+2019,Zinegotziak,,%,47.8
+2014,Zinegotziak,,%,40.3

@@ -13,48 +13,48 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Urtea"
           },
           {
             "name": "Pobreza",
             "type": "string",
             "constraints": {
               "enum": [
-                "NAHC",
-                "SMSD",
-                "VLWI",
+                "Pobrezia-arriskua (monetarioa)",
+                "Gabezia material eta sozial larria",
+                "Lan-intentsitate txikia",
                 ""
               ]
             },
-            "title": "Pobreza"
+            "title": "Pobreziaren dimentsioa"
           },
           {
             "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Emakumea",
+                "Gizona",
                 ""
               ]
             },
-            "title": "Sexo"
+            "title": "Sexua"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unitatea"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       }

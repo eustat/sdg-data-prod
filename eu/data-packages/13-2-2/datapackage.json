@@ -13,41 +13,41 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Urtea"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "EN_ATM_GHGT_AIP",
-                "EN_ATM_GHGGDP",
-                "EN_ATM_GHGPC",
-                "EU_GHG_TV1990",
-                "EU_GHG_TV2005",
+                "Berotegi-efektuko gasen isurketak, guztira, urtearen arabera",
+                "Berotegi-efektuko gasen isurketak, guztira, BPGren unitateko",
+                "Berotegi-efektuko gasen isurketak, guztira, biztanleko",
+                "Berotegi-efektuko gasen emisioak, 1990. urtearekiko",
+                "Berotegi-efektuko gasen isurketak, 2005. urtearekiko",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Seriea"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "TCO2E",
-                "KG_CO2_PER_GDP_EUR",
-                "T_CO2_PER_CAPITA",
-                "PT",
+                "CO2 tonak - baliokidea",
+                "Kg CO2 baliokide BPGd-ko",
+                "Biztanle bakoitzeko CO2 baliokidearen tonak",
+                "%",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unitatea"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       }

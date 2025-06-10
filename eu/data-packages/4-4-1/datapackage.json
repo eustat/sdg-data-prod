@@ -13,79 +13,79 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Urtea"
           },
           {
             "name": "Habilidad_IT",
             "type": "string",
             "constraints": {
               "enum": [
-                "ICT",
-                "ICTCPT",
-                "ICTPST",
-                "ICTSSHT",
-                "ICTPRGM",
-                "ICTTRFF",
-                "ICTSFWR",
-                "ICTPRVCY",
+                "Trebetasun informatikoren bat behintzat",
+                "Fitxategiak edo karpetak kopiatu edo mugitu",
+                "Testua, irudiak, taulak edo grafikoak osatzen dituzten aurkezpenak edo dokumentuak sortzea",
+                "Kalkulu-orriak erabiltzea",
+                "Programazio-lengoaia batean programatzea",
+                "Fitxategiak ordenagailuaren eta beste gailu batzuen artean transferitzea (kamera digitalak, telefono mugikorrak, mp3 edo mp4)",
+                "Softwarea edo aplikazioak instalatzea (app-ak)",
+                "Edozein softwareren konfigurazioa aldatzea, sistema eragilea eta segurtasun-programak barne",
                 ""
               ]
             },
-            "title": "Habilidad_IT"
+            "title": "Trebetasun informatikoa"
           },
           {
             "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Emakumea",
+                "Gizona",
                 ""
               ]
             },
-            "title": "Sexo"
+            "title": "Sexua"
           },
           {
             "name": "Edad",
             "type": "string",
             "constraints": {
               "enum": [
-                "Y16T24",
-                "Y16T74",
-                "Y25T74",
+                "16-24 urte",
+                "16-74 urte",
+                "25-74 urte",
                 ""
               ]
             },
-            "title": "Edad"
+            "title": "Adina"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "Araba / Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Lurralde historikoa"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unitatea"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       }

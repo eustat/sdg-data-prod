@@ -20,9 +20,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "EN_H2O_GRAMBQ",
-                "EN_H2O_OPAMBQ",
-                "EN_H2O_RVAMBQ",
+                "Proportion of good-quality groundwater bodies",
+                "Proportion of good-quality surface water bodies",
+                "Proportion of good-quality river water bodies",
                 ""
               ]
             },
@@ -37,7 +37,7 @@
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unit"
           },
           {
             "name": "Value",

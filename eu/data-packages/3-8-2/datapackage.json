@@ -13,35 +13,35 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Urtea"
           },
           {
             "name": "Gasto",
             "type": "string",
             "constraints": {
               "enum": [
-                "SH_XPD_EARN25",
-                "SH_XPD_EARN10",
+                "% 25etik gorakoak",
+                "% 10etik gorakoak",
                 ""
               ]
             },
-            "title": "Gasto"
+            "title": "Gastua"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unitatea"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       }

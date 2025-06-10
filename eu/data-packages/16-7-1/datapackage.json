@@ -13,72 +13,72 @@
           {
             "name": "Year",
             "type": "integer",
-            "title": "Year"
+            "title": "Urtea"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "SG_DMK_PARLMP_LC",
-                "SG_DMK_PSRVC",
-                "SG_DMK_JDC",
+                "Legebiltzarreko emakumeen proportzioa, biztanleriako emakumeen proportzioari dagokionez",
+                "Administrazio publikoko emakumeen proportzioa, biztanlerian dauden emakumeen proportzioari dagokionez",
+                "Botere judizialeko emakumeen proportzioa, biztanleriako emakumeen proportzioari dagokionez",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Seriea"
           },
           {
             "name": "Institucion",
             "type": "string",
             "constraints": {
               "enum": [
-                "EU_DMK_PSRVC_AUT",
-                "EU_DMK_PSRVC_LOC",
-                "EU_DMK_PSRVC_NAC",
-                "EU_DMK_SAN_AUT",
-                "EU_DMK_EDU_AUT",
-                "EU_DMK_DF",
-                "EU_DMK_MUN",
-                "EU_DMK_UNI",
-                "EU_DMK_POL_AUT",
-                "EU_DMK_JUST_AUT",
-                "EU_DMK_JUST_NAC",
-                "EU_DMK_FCSE",
-                "EU_DMK_FA",
+                "Sektore publiko autonomikoa",
+                "Tokiko sektore publikoa",
+                "Estatuko sektore publikoa",
+                "Osasun erakunde autonomikoak",
+                "Unibertsitateaz kanpoko ikastetxe autonomikoak",
+                "Foru-aldundiak",
+                "Udalak",
+                "Unibertsitateak",
+                "Polizia autonomikoa",
+                "Justizia Administrazio autonomikoa",
+                "Estatuko Justizia Administrazioa",
+                "Estatuko segurtasun-indar eta -kidegoak",
+                "Indar armatuak",
                 ""
               ]
             },
-            "title": "Institucion"
+            "title": "Erakundea"
           },
           {
             "name": "Territorio",
             "type": "string",
             "constraints": {
               "enum": [
-                "ES211",
-                "ES213",
-                "ES212",
+                "Araba / Álava",
+                "Bizkaia",
+                "Gipuzkoa",
                 ""
               ]
             },
-            "title": "Territorio"
+            "title": "Lurralde historikoa"
           },
           {
             "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
-                "RO",
+                "Ratioa",
                 ""
               ]
             },
-            "title": "Units"
+            "title": "Unitatea"
           },
           {
             "name": "Value",
             "type": "number",
-            "title": "Value"
+            "title": "Balioa"
           }
         ]
       }
