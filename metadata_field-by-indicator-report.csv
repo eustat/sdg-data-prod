@@ -22,7 +22,7 @@ Indicator,Reporting status,Progress status,Show map,Tipo de gráfico
 #10-7-1,notstarted,notstarted,,line
 #10-7-2,notstarted,notstarted,,line
 #10-7-3,notstarted,notstarted,,line
-#10-7-4,notstarted,notstarted,,line
+#10-7-4,complete,retroceso,,line
 #10-a-1,notstarted,notstarted,,line
 #10-b-1,notstarted,notstarted,,line
 #10-c-1,notstarted,notstarted,,line
@@ -41,7 +41,7 @@ Indicator,Reporting status,Progress status,Show map,Tipo de gráfico
 #11-a-1,complete,alcanzado,,line
 #11-b-1,complete,alcanzado,,line
 #11-b-2,complete,alcanzado,True,line
-#12-1-1,complete,alcanzado,,line
+#12-1-1,complete,alcanzado,,binary
 #12-2-1,notstarted,notstarted,,line
 #12-2-2,complete,progreso,,line
 #12-3-1,notstarted,notstarted,,line
@@ -82,7 +82,7 @@ Indicator,Reporting status,Progress status,Show map,Tipo de gráfico
 #15-5-1,notstarted,notstarted,,line
 #15-6-1,notstarted,notstarted,,line
 #15-7-1,notstarted,notstarted,,line
-#15-8-1,complete,alcanzado,,line
+#15-8-1,complete,alcanzado,,binary
 #15-9-1,notstarted,,,line
 #15-a-1,notstarted,notstarted,,line
 #15-b-1,notstarted,notstarted,,line
@@ -104,7 +104,7 @@ Indicator,Reporting status,Progress status,Show map,Tipo de gráfico
 #16-4-2,notstarted,notstarted,,line
 #16-5-1,notstarted,notstarted,,line
 #16-5-2,notstarted,notstarted,,line
-#16-6-1,complete,alcanzado,,line
+#16-6-1,complete,alcanzado,True,line
 #16-6-2,complete,progreso,,line
 #16-7-1,complete,noevaluado,,line
 #16-7-2,notstarted,notstarted,,line
@@ -123,10 +123,10 @@ Indicator,Reporting status,Progress status,Show map,Tipo de gráfico
 #17-16-1,notstarted,notstarted,,line
 #17-17-1,notstarted,notstarted,,line
 #17-18-1,notstarted,notstarted,,line
-#17-18-2,complete,alcanzado,,line
-#17-18-3,complete,alcanzado,,line
+#17-18-2,complete,alcanzado,,binary
+#17-18-3,complete,alcanzado,,binary
 #17-19-1,notstarted,notstarted,,line
-#17-19-2,complete,alcanzado,,line
+#17-19-2,complete,alcanzado,,binary
 #17-2-1,complete,progreso,,line
 #17-3-1,complete,progreso,,line
 #17-3-2,complete,noevaluado,,line
@@ -141,8 +141,7 @@ Indicator,Reporting status,Progress status,Show map,Tipo de gráfico
 #2-2-1,notstarted,notstarted,,line
 #2-2-2,complete,retroceso,,bar
 #2-2-3,notstarted,notstarted,,line
-#2-2-4,notstarted,,,line
-#2-2-E1,complete,retroceso,,line
+#2-2-E1,complete,retroceso,,bar
 #2-3-1,complete,retroceso,,line
 #2-3-2,complete,retroceso,,line
 #2-4-1,complete,progreso,,line
@@ -163,7 +162,7 @@ Indicator,Reporting status,Progress status,Show map,Tipo de gráfico
 #3-3-3,complete,noevaluado,,line
 #3-3-4,complete,alcanzado,,line
 #3-3-5,notstarted,notstarted,,line
-#3-4-1,complete,progreso,,line
+#3-4-1,complete,progreso,True,line
 #3-4-2,complete,retroceso,,line
 #3-4-E1,complete,alcanzado,,line
 #3-4-E2,complete,noevaluado,,line
@@ -177,7 +176,7 @@ Indicator,Reporting status,Progress status,Show map,Tipo de gráfico
 #3-9-1,notstarted,notstarted,,line
 #3-9-2,notstarted,notstarted,,line
 #3-9-3,complete,retroceso,,line
-#3-a-1,complete,alcanzado,,line
+#3-a-1,complete,alcanzado,,bar
 #3-b-1,complete,retroceso,,line
 #3-b-2,notstarted,notstarted,,line
 #3-b-3,notstarted,notstarted,,line
@@ -188,7 +187,7 @@ Indicator,Reporting status,Progress status,Show map,Tipo de gráfico
 #4-1-2,complete,progreso,,line
 #4-1-E1,complete,alcanzado,,line
 #4-2-1,notstarted,notstarted,,line
-#4-2-2,complete,alcanzado,,line
+#4-2-2,complete,alcanzado,True,line
 #4-3-1,complete,alcanzado,,line
 #4-4-1,complete,progreso,,line
 #4-5-1,complete,progreso,,line
@@ -243,7 +242,6 @@ Indicator,Reporting status,Progress status,Show map,Tipo de gráfico
 #8-8-1,complete,progreso,,line
 #8-8-2,notstarted,notstarted,,line
 #8-9-1,complete,noevaluado,,line
-#8-9-2,notstarted,,,line
 #8-a-1,notstarted,notstarted,,line
 #8-b-1,complete,noevaluado,,line
 #9-1-1,complete,alcanzado,,bar

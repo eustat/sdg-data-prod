@@ -32,24 +32,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "16 urte eta gehiago",
+                "16-24 urte",
                 "16-29 urte",
-                "16-64 urte",
+                "25-34 urte",
+                "35 urte eta gehiago",
                 ""
               ]
             },
             "title": "Adina"
           },
           {
-            "name": "Residencia",
+            "name": "Nacionalidad",
             "type": "string",
             "constraints": {
               "enum": [
-                "Atzerritarra",
+                "Espainiarrak",
+                "Atzerriko nazionalitatea",
                 ""
               ]
             },
-            "title": "Egoitza"
+            "title": "Nazionalitatea"
           },
           {
             "name": "Discapacidad",
@@ -61,7 +63,7 @@
                 ""
               ]
             },
-            "title": "Desgaitasunik ez duten pertsonak"
+            "title": "Desgaitasuna"
           },
           {
             "name": "Territorio",
@@ -394,5 +396,5 @@
   ],
   "profile": "data-package",
   "name": "8-5-2",
-  "title": "Unemployment rate, by sex, age and persons with disabilities"
+  "title": "Langabezia-tasa, sexuaren, adinaren eta desgaitasuna duten pertsonen arabera banakatuta"
 }

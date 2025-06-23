@@ -12,7 +12,17 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PER_100000",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -24,5 +34,5 @@
   ],
   "profile": "data-package",
   "name": "10-7-4",
-  "title": "Proportion of the population who are refugees, by country of origin"
+  "title": "global_indicators.10-7-4-title"
 }

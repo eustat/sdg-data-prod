@@ -30,19 +30,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Y_GE16",
+                "Y16T24",
                 "Y16T29",
-                "Y16T64",
+                "Y25T34",
+                "Y_GE35",
                 ""
               ]
             }
           },
           {
-            "name": "Residencia",
+            "name": "Nacionalidad",
             "type": "string",
             "constraints": {
               "enum": [
-                "MIGRANT",
+                "NACIO",
+                "EXTR",
                 ""
               ]
             }
@@ -383,5 +385,5 @@
   ],
   "profile": "data-package",
   "name": "8-5-2",
-  "title": "Unemployment rate, by sex, age and persons with disabilities"
+  "title": "global_indicators.8-5-2-title"
 }

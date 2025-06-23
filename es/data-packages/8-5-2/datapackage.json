@@ -32,24 +32,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "16 años y más",
+                "16-24 años",
                 "16-29 años",
-                "16-64 años",
+                "25-34 años",
+                "35 años y más",
                 ""
               ]
             },
             "title": "Edad"
           },
           {
-            "name": "Residencia",
+            "name": "Nacionalidad",
             "type": "string",
             "constraints": {
               "enum": [
-                "Extranjero/a",
+                "Nacionalidad española",
+                "Nacionalidad extranjera",
                 ""
               ]
             },
-            "title": "Residencia"
+            "title": "Nacionalidad"
           },
           {
             "name": "Discapacidad",
@@ -61,7 +63,7 @@
                 ""
               ]
             },
-            "title": "Personas sin y con discapacidad"
+            "title": "Discapacidad"
           },
           {
             "name": "Territorio",
@@ -394,5 +396,5 @@
   ],
   "profile": "data-package",
   "name": "8-5-2",
-  "title": "Unemployment rate, by sex, age and persons with disabilities"
+  "title": "Tasa de desempleo, desglosada por sexo, edad y personas con discapacidad"
 }

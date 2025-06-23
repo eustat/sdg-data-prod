@@ -16,6 +16,22 @@
             "title": "Año"
           },
           {
+            "name": "Uso",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Uso doméstico",
+                "Uso industrial",
+                "Uso comercial",
+                "Uso público",
+                "Uso agropecuario",
+                "Otros usos",
+                ""
+              ]
+            },
+            "title": "Tipo de uso"
+          },
+          {
             "name": "Territorio",
             "type": "string",
             "constraints": {
@@ -50,5 +66,5 @@
   ],
   "profile": "data-package",
   "name": "6-4-2",
-  "title": "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources"
+  "title": "Nivel de estrés hídrico: extracción de agua dulce en proporción a los recursos de agua dulce disponibles"
 }

@@ -16,17 +16,6 @@
             "title": "Urtea"
           },
           {
-            "name": "Edad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "15 urte eta gehiago",
-                ""
-              ]
-            },
-            "title": "Adina"
-          },
-          {
             "name": "Sexo",
             "type": "string",
             "constraints": {
@@ -73,5 +62,5 @@
   ],
   "profile": "data-package",
   "name": "3-a-1",
-  "title": "Age-standardized prevalence of current tobacco use among persons aged 15 years and older"
+  "title": "Egungo tabako-kontsumoaren prebalentzia 15 urtetik aurrera (adin egokituak)"
 }

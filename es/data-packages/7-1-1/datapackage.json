@@ -16,17 +16,6 @@
             "title": "Año"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proporción de la población con acceso a la electricidad",
-                ""
-              ]
-            },
-            "title": "Serie"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -48,5 +37,5 @@
   ],
   "profile": "data-package",
   "name": "7-1-1",
-  "title": "Proportion of population with access to electricity"
+  "title": "Proporción de la población que tiene acceso a la electricidad"
 }

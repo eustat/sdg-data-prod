@@ -16,17 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "EU_SDG_02_40",
-                ""
-              ]
-            },
-            "title": "Series"
-          },
-          {
             "name": "Territorio",
             "type": "string",
             "constraints": {
@@ -334,7 +323,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -356,5 +345,5 @@
   ],
   "profile": "data-package",
   "name": "2-4-E1",
-  "title": "Superficie dedicada a la agricultura ecológica (<b>Indicador UE sdg_02_40</b>)"
+  "title": "Area under organic farming (EU indicator sdg_02_40)"
 }

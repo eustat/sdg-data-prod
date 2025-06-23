@@ -16,6 +16,22 @@
             "title": "Urtea"
           },
           {
+            "name": "Uso",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Etxeko erabilera",
+                "Industria-erabilera",
+                "Merkataritza-erabilera",
+                "Erabilera publikoa",
+                "Nekazaritza eta abeltzaintzako erabilera",
+                "Beste erabilera batzuk",
+                ""
+              ]
+            },
+            "title": "Erabilera mota"
+          },
+          {
             "name": "Territorio",
             "type": "string",
             "constraints": {
@@ -50,5 +66,5 @@
   ],
   "profile": "data-package",
   "name": "6-4-2",
-  "title": "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources"
+  "title": "Estres hidrikoaren maila: ur gezaren erauzketa eskuragarri dauden ur gezako baliabideen proportzioan"
 }

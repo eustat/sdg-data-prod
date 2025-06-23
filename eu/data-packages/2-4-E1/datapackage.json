@@ -16,17 +16,6 @@
             "title": "Urtea"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "EU_SDG_02_40",
-                ""
-              ]
-            },
-            "title": "Seriea"
-          },
-          {
             "name": "Territorio",
             "type": "string",
             "constraints": {

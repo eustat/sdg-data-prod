@@ -1,5 +1,5 @@
 Value,eu,es,en,Disaggregation combinations using this value,Number of indicators
-EU_DMK_DF,Foru-aldundiak,Diputaciones forales,Regional Governments,4,1
+EU_DMK_DF,Foru-aldundiak,Diputaciones forales,Provincial Governments,4,1
 EU_DMK_EDU_AUT,Unibertsitateaz kanpoko ikastetxe autonomikoak,Centros educativos no universitarios autonómicos,Regional Non-University Educational Institutions,4,1
 EU_DMK_FA,Indar armatuak,Fuerzas armadas,Armed Forces,4,1
 EU_DMK_FCSE,Estatuko segurtasun-indar eta -kidegoak,Fuerzas y cuerpos de seguridad del Estado,State Security Forces and Corps,4,1
@@ -17,4 +17,4 @@ GEN_LOCG,Alkatetzak,Alcaldías,Mayors,1,1
 GEN_LOCP,Zinegotziak,Concejalías,Council Members,1,1
 GEN_PARL,Legebiltzar autonomikoko hautetsiak,Electas en parlamento autonómico,Elected in the Regional Parliament,1,1
 GEN_REGIOG,Foru-gobernuetako sailburuak,Departamentos en gobiernos forales,Departments in Regional Governments,4,1
-GEN_REGIOPARL,Batzar Nagusietako hautetsiak,Electas en Juntas Generales,Elected in General Assemblies,4,1
+GEN_REGIOPARL,Batzar Nagusietako hautetsiak,Electas en Juntas Generales,Elected in Provincial Assemblies,4,1

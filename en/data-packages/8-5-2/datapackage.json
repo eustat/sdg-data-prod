@@ -32,24 +32,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "16 years and over",
+                "16-24 years",
                 "16-29 years",
-                "16-64 years",
+                "25-34 years",
+                "35 years and over",
                 ""
               ]
             },
             "title": "Age"
           },
           {
-            "name": "Residencia",
+            "name": "Nacionalidad",
             "type": "string",
             "constraints": {
               "enum": [
-                "MIGRANT",
+                "Spanish nationality",
+                "Foreign nationality",
                 ""
               ]
             },
-            "title": "Residence"
+            "title": "Nacionalidad"
           },
           {
             "name": "Discapacidad",
@@ -61,7 +63,7 @@
                 ""
               ]
             },
-            "title": "People with and without disabilities"
+            "title": "Disability"
           },
           {
             "name": "Territorio",
@@ -372,7 +374,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },

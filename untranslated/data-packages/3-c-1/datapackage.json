@@ -15,16 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "SH_MED_DEN",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Profesion",
             "type": "string",
             "constraints": {
@@ -80,5 +70,5 @@
   ],
   "profile": "data-package",
   "name": "3-c-1",
-  "title": "Health worker density and distribution"
+  "title": "global_indicators.3-c-1-title"
 }

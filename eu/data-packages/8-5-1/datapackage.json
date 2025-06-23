@@ -21,7 +21,7 @@
             "constraints": {
               "enum": [
                 "Orduko batez besteko diru-sarrera",
-                "Genero-aldea soldatan",
+                "Genero-arrakala soldatan",
                 ""
               ]
             },
@@ -49,7 +49,7 @@
                 ""
               ]
             },
-            "title": "Desgaitasunik ez duten pertsonak"
+            "title": "Desgaitasuna"
           },
           {
             "name": "Units",
@@ -74,5 +74,5 @@
   ],
   "profile": "data-package",
   "name": "8-5-1",
-  "title": "Average hourly earnings of employees, by sex, age, occupation and persons with disabilities"
+  "title": "Landunen batez besteko diru-sarrerak orduko, sexuaren, adinaren, okupazioaren eta desgaitasuna duten pertsonen arabera banakatuta"
 }

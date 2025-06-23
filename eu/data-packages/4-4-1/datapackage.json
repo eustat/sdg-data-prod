@@ -20,18 +20,29 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Trebetasun informatikoren bat behintzat",
+                "Softwarea edo aplikazioak instalatu (app-ak)",
+                "Edozein softwareren konfigurazioa aldatu, sistema eragilea eta segurtasun-programak barne",
                 "Fitxategiak edo karpetak kopiatu edo mugitu",
-                "Testua, irudiak, taulak edo grafikoak osatzen dituzten aurkezpenak edo dokumentuak sortzea",
-                "Kalkulu-orriak erabiltzea",
-                "Programazio-lengoaia batean programatzea",
-                "Fitxategiak ordenagailuaren eta beste gailu batzuen artean transferitzea (kamera digitalak, telefono mugikorrak, mp3 edo mp4)",
-                "Softwarea edo aplikazioak instalatzea (app-ak)",
-                "Edozein softwareren konfigurazioa aldatzea, sistema eragilea eta segurtasun-programak barne",
+                "Testu, irudi, taula edo grafikoz osatutako aurkezpenak edo dokumentuak sortu",
+                "Programazio-lengoaia batean programatu",
+                "Kalkulu-orriak erabili",
+                "Fitxategiak transferitu ordenagailuaren eta beste gailu batzuen artean (kamera digitalak, telefono mugikorrak, mp3 edo mp4)",
                 ""
               ]
             },
             "title": "Trebetasun informatikoa"
+          },
+          {
+            "name": "Edad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "16-24 urte",
+                "25-74 urte",
+                ""
+              ]
+            },
+            "title": "Adina"
           },
           {
             "name": "Sexo",
@@ -44,19 +55,6 @@
               ]
             },
             "title": "Sexua"
-          },
-          {
-            "name": "Edad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "16-24 urte",
-                "16-74 urte",
-                "25-74 urte",
-                ""
-              ]
-            },
-            "title": "Adina"
           },
           {
             "name": "Territorio",
@@ -93,5 +91,5 @@
   ],
   "profile": "data-package",
   "name": "4-4-1",
-  "title": "Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill"
+  "title": "Informazioaren eta komunikazioaren teknologian (IKT) gaitasuna duten gazteen eta helduen proportzioa, gaitasun motaren arabera banakatuta"
 }

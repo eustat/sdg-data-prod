@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Regional and local government",
+                "Regional and local governments",
                 "Regional government",
                 "Local government",
                 ""

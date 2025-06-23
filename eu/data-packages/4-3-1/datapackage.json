@@ -46,8 +46,8 @@
               "enum": [
                 "15-24 urte",
                 "15-64 urte",
-                "25-64 urte",
                 "18-64 urte",
+                "25-64 urte",
                 ""
               ]
             },
@@ -88,5 +88,5 @@
   ],
   "profile": "data-package",
   "name": "4-3-1",
-  "title": "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex"
+  "title": "Gazteek eta helduek azken 12 hilabeteetan hezkuntzan eta prestakuntza akademikoan eta ez-akademikoan izandako parte-hartze tasa, sexuaren arabera banakatuta"
 }

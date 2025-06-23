@@ -16,17 +16,6 @@
             "title": "Año"
           },
           {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Densidad y distribución del personal sanitario",
-                ""
-              ]
-            },
-            "title": "Serie"
-          },
-          {
             "name": "Profesion",
             "type": "string",
             "constraints": {
@@ -87,5 +76,5 @@
   ],
   "profile": "data-package",
   "name": "3-c-1",
-  "title": "Health worker density and distribution"
+  "title": "Densidad y distribución del personal sanitario"
 }

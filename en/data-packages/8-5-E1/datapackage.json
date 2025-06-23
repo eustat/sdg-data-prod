@@ -28,18 +28,6 @@
             "title": "Series"
           },
           {
-            "name": "Edad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "16 years and over",
-                "20-64 years",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
             "name": "Sexo",
             "type": "string",
             "constraints": {
@@ -56,8 +44,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Temporary contract",
                 "Part-time contract",
+                "Temporary contract",
                 ""
               ]
             },
@@ -372,7 +360,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 "Percentage points",
                 ""
               ]
@@ -395,5 +383,5 @@
   ],
   "profile": "data-package",
   "name": "8-5-E1",
-  "title": "Tasa de ocupación de la población (<b>Indicador UE sdg_08_30</b>)"
+  "title": "Population occupancy rate (EU indicator sdg_08_30)"
 }

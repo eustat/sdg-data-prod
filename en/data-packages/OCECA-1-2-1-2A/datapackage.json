@@ -20,7 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "%",
                 ""
               ]
             },
@@ -37,5 +37,5 @@
   ],
   "profile": "data-package",
   "name": "OCECA-1-2-1-2A",
-  "title": "Proporción de personas en riesgo de pobreza relativa con alquiler imputado, considerando el umbral nacional de pobreza"
+  "title": "Proportion of people at risk of relative poverty with imputed rent, considering the national poverty line"
 }

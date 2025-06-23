@@ -12,8 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Urtea"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "100.000 biztanleko",
+                ""
+              ]
+            },
+            "title": "Unitatea"
           },
           {
             "name": "Value",
@@ -26,5 +37,5 @@
   ],
   "profile": "data-package",
   "name": "10-7-4",
-  "title": "Proportion of the population who are refugees, by country of origin"
+  "title": "Errefuxiatuek osatzen duten biztanleriaren proportzioa, jatorrizko herrialdeen arabera banatuta"
 }
