@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Nekazaritza eta abeltzaintzako amoniakoaren isuriak hektareako",
-                "Nekazaritzaren eta abeltzaintzaren amoniakoaren emisioak",
+                "Nekazaritza eta abeltzaintzako amoniako-isuriak hektareako",
+                "Nekazaritzaren eta abeltzaintzaren amoniako-isuriak",
                 ""
               ]
             },
@@ -62,5 +62,5 @@
   ],
   "profile": "data-package",
   "name": "2-4-E2",
-  "title": "Nekazaritzaren eta abeltzaintzaren amoniako emisioak (EBren sdg_02_60 adierazlea)"
+  "title": "Nekazaritzaren eta abeltzaintzaren amoniako isuriak (EBren sdg_02_60 adierazlea)"
 }

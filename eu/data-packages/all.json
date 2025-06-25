@@ -70,7 +70,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Aurkibidea",
+                "Indizea",
                 ""
               ]
             },
@@ -1780,7 +1780,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Aurkibidea",
+                "Indizea",
                 ""
               ]
             },
@@ -1793,7 +1793,7 @@
           }
         ]
       },
-      "title": "$CO_2$ isurketak 1990. urtearekiko"
+      "title": "$CO_2$ isuriak 1990. urtearekiko"
     },
     {
       "path": "OCECA-1-a-2-1/data.csv",
@@ -3588,7 +3588,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Aurkibidea",
+                "Indizea",
                 ""
               ]
             },
@@ -3601,7 +3601,7 @@
           }
         ]
       },
-      "title": "$CO_2$ isurketak 2005. urtearekiko"
+      "title": "$CO_2$ isuriak 2005. urtearekiko"
     },
     {
       "path": "16-2-2/data.csv",
@@ -6077,8 +6077,8 @@
                 "Berotegi-efektuko gasen isurketak, guztira, urtearen arabera",
                 "Berotegi-efektuko gasen isurketak, guztira, BPGren unitateko",
                 "Berotegi-efektuko gasen isurketak, guztira, biztanleko",
-                "Berotegi-efektuko gasen emisioak, 1990. urtearekiko",
-                "Berotegi-efektuko gasen isurketak, 2005. urtearekiko",
+                "Berotegi-efektuko gasen isuriak, 1990. urtearekiko",
+                "Berotegi-efektuko gasen isuriak, 2005. urtearekiko",
                 ""
               ]
             },
@@ -6787,7 +6787,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Aurkibidea",
+                "Indizea",
                 ""
               ]
             },
@@ -7589,7 +7589,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Espainiarrak",
+                "Espainiako nazionalitatea",
                 "Atzerriko nazionalitatea",
                 ""
               ]
@@ -10119,8 +10119,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Nekazaritza eta abeltzaintzako amoniakoaren isuriak hektareako",
-                "Nekazaritzaren eta abeltzaintzaren amoniakoaren emisioak",
+                "Nekazaritza eta abeltzaintzako amoniako-isuriak hektareako",
+                "Nekazaritzaren eta abeltzaintzaren amoniako-isuriak",
                 ""
               ]
             },
@@ -10157,7 +10157,7 @@
           }
         ]
       },
-      "title": "Nekazaritzaren eta abeltzaintzaren amoniako emisioak (EBren sdg_02_60 adierazlea)"
+      "title": "Nekazaritzaren eta abeltzaintzaren amoniako isuriak (EBren sdg_02_60 adierazlea)"
     },
     {
       "path": "2-a-1/data.csv",
