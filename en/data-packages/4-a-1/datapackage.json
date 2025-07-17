@@ -22,8 +22,8 @@
               "enum": [
                 "Electricity",
                 "Internet connection",
-                "Drinking water",
                 "Single-sex restrooms",
+                "Drinking water",
                 "Handwashing",
                 ""
               ]

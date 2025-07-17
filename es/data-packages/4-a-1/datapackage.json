@@ -22,8 +22,8 @@
               "enum": [
                 "Electricidad",
                 "Conexión a internet",
-                "Agua potable",
                 "Baños separados por sexo",
+                "Agua potable",
                 "Lavado de manos",
                 ""
               ]
