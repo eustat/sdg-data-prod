@@ -2965,10 +2965,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Genero-parekotasunaren indizea",
-                "Diru-sarreren parekotasun-indizea (goiko eta beheko kintilak)",
-                "Paritate-indizea kokapenean (10.000 biztanletik gorako eta beherako udalerriak)",
-                "Parekotasun-indizea osasunean",
+                "Genero-parekotasunaren indizea hezkuntza-jarduerak egitean",
+                "Diru-sarrera parekotasunaren indizea hezkuntza-jarduerak egitean (goiko eta beheko kintilak)",
+                "Bizileku-parekotasunaren indizea hezkuntza-jarduerak egitean (10.000 biztanletik gorako eta beherako udalerriak)",
+                "Osasun-parekotasunaren indizea hezkuntza-jarduerak egitean",
                 ""
               ]
             },
@@ -8906,6 +8906,7 @@
                 "Urkabustaiz",
                 "Urnieta",
                 "Urretxu",
+                "Usansolo",
                 "Usurbil",
                 "Valdegovía / Gaubea",
                 "Valle de Trápaga-Trapagaran",
@@ -13433,7 +13434,7 @@
           }
         ]
       },
-      "title": "Azken 12 hilabeteetan sexu- edo sexu-jazarpenaren biktima izan ez diren pertsonen proportzioa, sexuaren, adinaren, desgaitasun-mailaren eta gertaeraren lekuaren arabera banakatuta"
+      "title": "Azken 12 hilabeteetan jazarpen sexual edo ez sexualaren biktima izan diren pertsonen proportzioa, sexuaren, adinaren, desgaitasun-mailaren eta gertaeraren lekuaren arabera banakatuta"
     },
     {
       "path": "6-4-2/data.csv",
@@ -13544,7 +13545,7 @@
           }
         ]
       },
-      "title": "18-24 urteko biztanleen eskola-uzte goiztiarraren tasa"
+      "title": "18-24 urteko biztanleen eskola-uzte goiztiarraren tasa (EBren sdg_04_10 adierazlea)"
     },
     {
       "path": "2-3-1/data.csv",
