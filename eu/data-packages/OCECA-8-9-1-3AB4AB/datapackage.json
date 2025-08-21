@@ -1,0 +1,56 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Urtea"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Turisten ostatu-gauak biztanleko",
+                "Egoiliarrak ez diren turisten ostatu-gauak biztanleko",
+                "Gehieneko okupazioko bi hilabeteetan turistek igarotako gauen proportzioa, turisten ostatu-gau guztien aldean",
+                "Gehieneko okupazioko bi hilabeteetan egoiliarrak ez diren turisten ostatu-gauen proportzioa, egoiliarrak ez diren turisten ostatu-gauen guztizkoen artean",
+                ""
+              ]
+            },
+            "title": "Seriea"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ostatu-gauak biztanleko",
+                "%",
+                ""
+              ]
+            },
+            "title": "Unitatea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Balioa"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "OCECA-8-9-1-3AB4AB",
+  "title": "Turisten ostatu-gauak biztanleko, eta okupazio goreneko bi hilabeteetako turisten ostatu-gauen proportzioa turisten ostatu-gau guztiekiko"
+}
