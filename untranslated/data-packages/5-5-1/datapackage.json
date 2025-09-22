@@ -15,16 +15,16 @@
             "type": "integer"
           },
           {
-            "name": "Institucion",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
                 "GEN_PARL",
                 "GEN_G",
-                "GEN_REGIOG",
                 "GEN_REGIOPARL",
-                "GEN_LOCG",
+                "GEN_REGIOG",
                 "GEN_LOCP",
+                "GEN_LOCG",
                 ""
               ]
             }
@@ -35,8 +35,8 @@
             "constraints": {
               "enum": [
                 "ES211",
-                "ES213",
                 "ES212",
+                "ES213",
                 ""
               ]
             }
