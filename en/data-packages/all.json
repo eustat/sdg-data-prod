@@ -2095,116 +2095,6 @@
             "title": "Unit"
           },
           {
-            "name": "COL2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COL2"
-          },
-          {
-            "name": "COL3",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COL3"
-          },
-          {
-            "name": "COL4",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COL4"
-          },
-          {
-            "name": "COL5",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COL5"
-          },
-          {
-            "name": "COL6",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COL6"
-          },
-          {
-            "name": "COL7",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COL7"
-          },
-          {
-            "name": "COL8",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COL8"
-          },
-          {
-            "name": "COL9",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COL9"
-          },
-          {
-            "name": "COL10",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COL10"
-          },
-          {
-            "name": "COL11",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COL11"
-          },
-          {
-            "name": "COL12",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COL12"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -6105,26 +5995,6 @@
             "title": "Public services"
           },
           {
-            "name": "Sexo",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "Territorio",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Province"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -9568,7 +9438,7 @@
                 ""
               ]
             },
-            "title": "Category"
+            "title": "Category of water bodies"
           },
           {
             "name": "Units",
@@ -12050,7 +11920,7 @@
           }
         ]
       },
-      "title": "Redistributive impact of fiscal policy"
+      "title": "Redistributive impact of fiscal policy on the Gini index"
     },
     {
       "path": "3-4-E1/data.csv",
@@ -14266,7 +14136,7 @@
               "enum": [
                 "Kilotons",
                 "Tons per capita",
-                "T_MILLON_EUR",
+                "Kg per euro of GDP",
                 ""
               ]
             },
@@ -14771,12 +14641,14 @@
                 "Sukarrieta",
                 "Tolosa",
                 "Trucios-Turtzioz",
+                "Ubide",
                 "Ugao-Miraballes",
                 "Urduliz",
                 "Urduña/Orduña",
                 "Urkabustaiz",
                 "Urnieta",
                 "Urretxu",
+                "Usansolo",
                 "Usurbil",
                 "Valdegovía/Gaubea",
                 "Valle de Trápaga-Trapagaran",
@@ -15285,7 +15157,7 @@
           }
         ]
       },
-      "title": "Dollar value of financial and technical assistance (including through North-South, South‑South and triangular cooperation) committed to developing countries"
+      "title": "Dollar value of official development assistance committed to developing countries"
     },
     {
       "path": "3-d-2/data.csv",
@@ -16173,7 +16045,7 @@
           }
         ]
       },
-      "title": "Total amount of funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies"
+      "title": "Total amount of funding for developing and developed countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies"
     },
     {
       "path": "16-10-1/data.csv",
@@ -16557,7 +16429,7 @@
           }
         ]
       },
-      "title": "Volume of official development assistance flows for scholarships by sector and type of study"
+      "title": "Volume of official development assistance flows for scholarships"
     },
     {
       "path": "10-5-1/data.csv",
@@ -16989,7 +16861,7 @@
           }
         ]
       },
-      "title": "Debt service as a proportion of exports of goods and services"
+      "title": "Debt service as a proportion of exports of goods, services and primary income"
     },
     {
       "path": "1-4-2/data.csv",
@@ -17037,7 +16909,7 @@
           }
         ]
       },
-      "title": "Total resource flows for development, by recipient and donor countries and type of flow (e.g. official development assistance, foreign direct investment and other flows)"
+      "title": "Total resource flows for development (e.g. official development assistance, foreign direct investment and other flows)"
     },
     {
       "path": "10-7-3/data.csv",
@@ -17301,7 +17173,7 @@
           }
         ]
       },
-      "title": "(a) Number of countries that have established national targets in accordance with or similar to Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011–2020 in their national biodiversity strategy and action plans and the progress reported towards these targets; and (b) integration of biodiversity into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting"
+      "title": "(a) Number of countries that have established national targets in accordance with or similar to Kunming-Montreal Global Biodiversity Framework Target 14 in their national biodiversity strategy and action plans and the progress reported towards these targets; and (b) integration of biodiversity into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting"
     },
     {
       "path": "13-b-1/data.csv",
@@ -17565,7 +17437,7 @@
           }
         ]
       },
-      "title": "Total official development assistance grants from all donors that focus on poverty reduction as a share of the recipient country’s gross national income"
+      "title": "Total official development assistance grants that focus on poverty reduction as a share of the recipient country’s gross national income"
     },
     {
       "path": "1-5-3/data.csv",

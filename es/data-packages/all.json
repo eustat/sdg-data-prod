@@ -2095,116 +2095,6 @@
             "title": "Unidad"
           },
           {
-            "name": "COL2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COL2"
-          },
-          {
-            "name": "COL3",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COL3"
-          },
-          {
-            "name": "COL4",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COL4"
-          },
-          {
-            "name": "COL5",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COL5"
-          },
-          {
-            "name": "COL6",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COL6"
-          },
-          {
-            "name": "COL7",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COL7"
-          },
-          {
-            "name": "COL8",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COL8"
-          },
-          {
-            "name": "COL9",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COL9"
-          },
-          {
-            "name": "COL10",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COL10"
-          },
-          {
-            "name": "COL11",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COL11"
-          },
-          {
-            "name": "COL12",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "COL12"
-          },
-          {
             "name": "Value",
             "type": "number",
             "title": "Valor"
@@ -6105,26 +5995,6 @@
             "title": "Servicios públicos"
           },
           {
-            "name": "Sexo",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Sexo"
-          },
-          {
-            "name": "Territorio",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            },
-            "title": "Territorio histórico"
-          },
-          {
             "name": "Units",
             "type": "string",
             "constraints": {
@@ -9568,7 +9438,7 @@
                 ""
               ]
             },
-            "title": "Categoría"
+            "title": "Categoría de masas de agua"
           },
           {
             "name": "Units",
@@ -12050,7 +11920,7 @@
           }
         ]
       },
-      "title": "Efecto redistributivo de la política fiscal"
+      "title": "Impacto redistributivo de la política fiscal en el índice de Gini"
     },
     {
       "path": "3-4-E1/data.csv",
@@ -14266,7 +14136,7 @@
               "enum": [
                 "Kilotoneladas",
                 "Toneladas per cápita",
-                "T_MILLON_EUR",
+                "Kg por euro de PIB",
                 ""
               ]
             },
@@ -14771,12 +14641,14 @@
                 "Sukarrieta",
                 "Tolosa",
                 "Trucios-Turtzioz",
+                "Ubide",
                 "Ugao-Miraballes",
                 "Urduliz",
                 "Urduña/Orduña",
                 "Urkabustaiz",
                 "Urnieta",
                 "Urretxu",
+                "Usansolo",
                 "Usurbil",
                 "Valdegovía/Gaubea",
                 "Valle de Trápaga-Trapagaran",
@@ -15285,7 +15157,7 @@
           }
         ]
       },
-      "title": "Valor en dólares de la asistencia financiera y técnica (incluso mediante la cooperación Norte-Sur, Sur‑Sur y triangular) prometida a los países en desarrollo"
+      "title": "Valor en dólares de la asistencia oficial para el desarrollo comprometida para los países en desarrollo"
     },
     {
       "path": "3-d-2/data.csv",
@@ -16173,7 +16045,7 @@
           }
         ]
       },
-      "title": "Total de los fondos destinados a los países en desarrollo a fin de promover el desarrollo, la transferencia y la difusión de tecnologías ecológicamente racionales"
+      "title": "Total de los fondos destinados a los países en desarrollo y los países desarrollados con el fin de promover el desarrollo, la transferencia y la difusión de tecnologías ecológicamente racionales"
     },
     {
       "path": "16-10-1/data.csv",
@@ -16557,7 +16429,7 @@
           }
         ]
       },
-      "title": "Volumen de la asistencia oficial para el desarrollo destinada a becas, desglosado por sector y tipo de estudio"
+      "title": "Volumen de la asistencia oficial para el desarrollo destinada a becas"
     },
     {
       "path": "10-5-1/data.csv",
@@ -16989,7 +16861,7 @@
           }
         ]
       },
-      "title": "Servicio de la deuda en proporción a las exportaciones de bienes y servicios"
+      "title": "Servicio de la deuda en proporción a las exportaciones de bienes, servicios e ingresos primarios"
     },
     {
       "path": "1-4-2/data.csv",
@@ -17037,7 +16909,7 @@
           }
         ]
       },
-      "title": "Corrientes totales de recursos para el desarrollo, desglosadas por país receptor y país donante y por tipo de corriente (por ejemplo, asistencia oficial para el desarrollo, inversión extranjera directa y otras corrientes)"
+      "title": "Corrientes totales de recursos para el desarrollo (por ejemplo, asistencia oficial para el desarrollo, inversión extranjera directa y otras corrientes)"
     },
     {
       "path": "10-7-3/data.csv",
@@ -17301,7 +17173,7 @@
           }
         ]
       },
-      "title": "a) Número de países que han establecido metas nacionales de conformidad con la segunda Meta de Aichi del Plan Estratégico para la Diversidad Biológica 2011-2020 o metas similares en sus estrategias y planes de acción nacionales en materia de diversidad biológica y han informado de sus progresos en el logro de estas metas; y b) integración de la biodiversidad en los sistemas nacionales de contabilidad y presentación de informes, definidos como implementación del Sistema de Contabilidad Ambiental y Económica"
+      "title": "a) Número de países que han establecido metas nacionales acordes o similares a la Meta 14 del Marco Mundial de Biodiversidad de Kunming-Montreal en sus estrategias y planes de acción nacionales en materia de diversidad biológica y los progresos notificados en la consecución de dichas metas; y b) integración de la diversidad biológica en los sistemas nacionales de contabilidad y presentación de informes, definida como aplicación del Sistema de Contabilidad Ambiental y Económica"
     },
     {
       "path": "13-b-1/data.csv",
@@ -17565,7 +17437,7 @@
           }
         ]
       },
-      "title": "Total de las subvenciones de asistencia oficial para el desarrollo de todos los donantes que se centran en la reducción de la pobreza como porcentaje del ingreso nacional bruto del país receptor"
+      "title": "Total de subvenciones de asistencia oficial para el desarrollo destinadas a la reducción de la pobreza en porcentaje de la renta nacional bruta del país beneficiario"
     },
     {
       "path": "1-5-3/data.csv",

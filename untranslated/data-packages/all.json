@@ -1986,105 +1986,6 @@
             }
           },
           {
-            "name": "COL2",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COL3",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COL4",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COL5",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COL6",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COL7",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COL8",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COL9",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COL10",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COL11",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "COL12",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
@@ -5808,24 +5709,6 @@
                 "EU_PSR_SATIS_TRANSPORT",
                 "EU_PSR_SATIS_OBRA",
                 "EU_PSR_SATIS_DPDNT",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Sexo",
-            "type": "number",
-            "constraints": {
-              "enum": [
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Territorio",
-            "type": "number",
-            "constraints": {
-              "enum": [
                 ""
               ]
             }
@@ -13513,7 +13396,7 @@
               "enum": [
                 "KT",
                 "T_PER_CAPITA",
-                "T_MILLON_EUR",
+                "KG_PER_GDP_1000_EUR",
                 ""
               ]
             }
@@ -13995,12 +13878,14 @@
                 "ES48076",
                 "ES20071",
                 "ES48087",
+                "ES48088",
                 "ES48065",
                 "ES48089",
                 "ES48074",
                 "ES01054",
                 "ES20072",
                 "ES20077",
+                "ES48916",
                 "ES20073",
                 "ES01055",
                 "ES48080",
