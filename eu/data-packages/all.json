@@ -7065,8 +7065,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Bigarren hezkuntzako lehenengo etapa",
-                "Bigarren hezkuntzako bigarren etapa",
+                "Behe-mailako bigarren hezkuntza",
+                "Goi-mailako bigarren hezkuntza",
                 ""
               ]
             },
@@ -7090,7 +7090,7 @@
           }
         ]
       },
-      "title": "Amaiera-tasa (lehen hezkuntza, beheko bigarren hezkuntza eta goi-mailako bigarren hezkuntza)"
+      "title": "Amaiera-tasa (lehen hezkuntza, behe-mailako bigarren hezkuntza eta goi-mailako bigarren hezkuntza)"
     },
     {
       "path": "1-2-1/data.csv",
@@ -9438,7 +9438,7 @@
                 ""
               ]
             },
-            "title": "Ur-masen Kategoria"
+            "title": "Ur-masen kategoria"
           },
           {
             "name": "Units",
@@ -9937,7 +9937,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Balioa"
           }
         ]
@@ -12151,7 +12151,7 @@
           }
         ]
       },
-      "title": "Kontrolatutako instalazioetan bildu eta administratutako udal-hondakin solidoen proportzioa, sortutako udal-hondakin guztiekiko, hirika banakatuta"
+      "title": "Kontrolatutako instalazioetan bildu eta administratutako hiri-hondakin solidoen proportzioa, sortutako hiri-hondakin guztiekiko, hirika banakatuta"
     },
     {
       "path": "15-3-1/data.csv",
@@ -12662,8 +12662,8 @@
               "enum": [
                 "Eskolaurrea",
                 "Lehen hezkuntza",
-                "Bigarren hezkuntzako lehenengo etapa",
-                "Bigarren hezkuntzako bigarren etapa",
+                "Behe-mailako bigarren hezkuntza",
+                "Goi-mailako bigarren hezkuntza",
                 ""
               ]
             },
@@ -14800,7 +14800,7 @@
           }
         ]
       },
-      "title": "a) Banku komertzialen sukurtsalen kopurua 100.000 heldu bakoitzeko, eta b) kutxazain automatikoen kopurua 100.000 heldu bakoitzeko"
+      "title": "a) Merkataritza-bankuen sukurtsalen kopurua 100.000 heldu bakoitzeko, eta b) kutxazain automatikoen kopurua 100.000 heldu bakoitzeko"
     },
     {
       "path": "2-1-2/data.csv",
