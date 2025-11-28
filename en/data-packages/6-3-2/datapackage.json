@@ -21,23 +21,23 @@
             "constraints": {
               "enum": [
                 "Proportion of good-quality water bodies",
-                "Proportion of good-quality groundwater bodies",
                 "Proportion of good-quality surface water bodies",
+                "Proportion of good-quality groundwater bodies",
                 ""
               ]
             },
             "title": "Series"
           },
           {
-            "name": "Categoria",
+            "name": "CategoriaUra",
             "type": "string",
             "constraints": {
               "enum": [
+                "Rivers",
                 "Coastal waters",
                 "Transition waters",
-                "Rivers",
-                "Lakes and wetlands",
                 "Reservoirs",
+                "Lakes and wetlands",
                 ""
               ]
             },

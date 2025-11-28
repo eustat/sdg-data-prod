@@ -36,12 +36,12 @@
             "constraints": {
               "enum": [
                 "Energy sector",
-                "Services",
-                "Transport",
-                "Agriculture",
-                "Residential ",
-                "Waste",
                 "Industry",
+                "Transport",
+                "Residential ",
+                "Services",
+                "Agriculture",
+                "Waste",
                 ""
               ]
             },

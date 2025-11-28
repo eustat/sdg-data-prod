@@ -6032,6 +6032,7 @@
                 "ES01053",
                 "ES48082",
                 "ES20070",
+                "ES48084",
                 "ES48904",
                 "ES48085",
                 "ES48086",
@@ -7524,6 +7525,50 @@
       "title": "global_indicators.16-2-2-title"
     },
     {
+      "path": "12-3-1/data.csv",
+      "name": "12-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "AG_FOOD_WST",
+                "AG_FOOD_WST_PC",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "T",
+                "T_PER_CAPITA",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.12-3-1-title"
+    },
+    {
       "path": "17-18-3/data.csv",
       "name": "17-18-3",
       "profile": "tabular-data-resource",
@@ -8961,22 +9006,22 @@
             "constraints": {
               "enum": [
                 "EN_H2O_WBAMBQ",
-                "EN_H2O_GRAMBQ",
                 "EN_H2O_OPAMBQ",
+                "EN_H2O_GRAMBQ",
                 ""
               ]
             }
           },
           {
-            "name": "Categoria",
+            "name": "CategoriaUra",
             "type": "string",
             "constraints": {
               "enum": [
-                "ITSASERTZ",
-                "TRANTSIZIO",
                 "EN_H2O_RVAMBQ",
-                "AINTZIRA",
-                "URTEGI",
+                "EU_H2O_ITSASE",
+                "EU_H2O_TRANTS",
+                "EU_H2O_URTE",
+                "EU_H2O_AINTZ",
                 ""
               ]
             }
@@ -10786,13 +10831,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "ENERGETIKO",
-                "ZERBITZU",
-                "GARRAIO",
-                "NEKAZARI",
-                "EGOITZA",
-                "HONDAKIN",
-                "INDUSTRIA",
+                "EU_ATM_ENER",
+                "EU_ATM_INDUS",
+                "EU_ATM_GARRA",
+                "EU_ATM_EGOI",
+                "EU_ATM_ZERB",
+                "EU_ATM_NEKAZ",
+                "EU_ATM_HONDA",
                 ""
               ]
             }
@@ -11805,7 +11850,7 @@
             "constraints": {
               "enum": [
                 "SE_ACS_ELECT",
-                "SE_ACS_CMPTR",
+                "SE_ACS_INTNT",
                 "SE_ACS_SANIT",
                 "SE_ACS_H2O",
                 "SE_ACS_HNDWSH",
@@ -11819,6 +11864,87 @@
             "constraints": {
               "enum": [
                 "PT",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COL2",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COL3",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COL4",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COL5",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COL6",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COL7",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COL8",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COL9",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COL10",
+            "type": "number",
+            "constraints": {
+              "enum": [
                 ""
               ]
             }
@@ -13998,6 +14124,17 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "FB_CBK_BRCH",
+                "FB_ATM_TOTL",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Territorio",
             "type": "string",
             "constraints": {
@@ -15455,28 +15592,6 @@
       "title": "global_indicators.2-5-2-title"
     },
     {
-      "path": "12-3-1/data.csv",
-      "name": "12-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "global_indicators.12-3-1-title"
-    },
-    {
       "path": "13-a-1/data.csv",
       "name": "13-a-1",
       "profile": "tabular-data-resource",
@@ -15827,6 +15942,28 @@
         ]
       },
       "title": "global_indicators.17-19-1-title"
+    },
+    {
+      "path": "8-9-2/data.csv",
+      "name": "8-9-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.8-9-2-title"
     },
     {
       "path": "12-c-1/data.csv",
@@ -16203,6 +16340,28 @@
       "title": "global_indicators.15-9-1-title"
     },
     {
+      "path": "2-2-4/data.csv",
+      "name": "2-2-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.2-2-4-title"
+    },
+    {
       "path": "13-b-1/data.csv",
       "name": "13-b-1",
       "profile": "tabular-data-resource",
@@ -16487,6 +16646,28 @@
         ]
       },
       "title": "global_indicators.16-2-3-title"
+    },
+    {
+      "path": "11-c-1/data.csv",
+      "name": "11-c-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "global_indicators.11-c-1-title"
     },
     {
       "path": "16-5-1/data.csv",

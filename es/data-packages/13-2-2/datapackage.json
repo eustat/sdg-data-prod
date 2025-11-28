@@ -36,12 +36,12 @@
             "constraints": {
               "enum": [
                 "Sector energético",
-                "Servicios",
-                "Transporte",
-                "Agricultura",
-                "Residencial",
-                "Residuos",
                 "Industria",
+                "Transporte",
+                "Residencial",
+                "Servicios",
+                "Agricultura",
+                "Residuos",
                 ""
               ]
             },

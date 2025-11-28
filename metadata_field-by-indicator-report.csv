@@ -115,7 +115,7 @@ Adierazleak partzialki betetzen ditu Nazio Batuen adierazlearen metadatuak. Zerg
 #11-6-1,complete,alcanzado,,line,"
 ""Biztanle bakoitzeko bildutako hiri-hondakinak"" eta ""Tratatutako hiri-hondakinen proportzioa, tratamendu-eragiketaren arabera"" serieak autonomia-erkidegoetako estatistika-organo nagusien  arteko metodologia harmonizatua erabiliz kalkulatu dira. ",2025-08-19,,,"""Instalazio kontrolatuetan bildu eta kudeatutako hiri-hondakinen proportzioa"" serieak
  Nazio Batuen adierazlearen metadatuak betetzen ditu"
-#11-6-2,complete,progreso,,line,FUENTE.oceca,2025-08-14,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
+#11-6-2,complete,alcanzado,,line,FUENTE.oceca,2025-11-11,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 #11-7-1,complete,alcanzado,,line,FUENTE.oceca,2025-05-08,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 #11-7-2,complete,retroceso,,line,FUENTE.oceca,2025-08-14,,"
 Sexu-jazarpena ez den jazarpentzat jotzen da askatasunaren aurkako jazarpena (zigor-kodearen 172 ter artikulua), higiezinei lotutako  jazarpena (zigor-kodearen 172.1.3 artikulua) eta lan- edo funtzio-jazarpena (zigor-kodearen 173.1 artikulua). 
@@ -134,10 +134,15 @@ udalerriek larrialdietarako udal-planak egin eta onartu behar dituzte.
 bat etorriz, jarraibide hau gomendagarria da. 2024an, 5.000 eta 20.000 biztanle arteko udalerrien % 96k 
 eta 1.000 eta 5.000 biztanle arteko udalerrien % 25ek Udal Larrialdi Plan homologatua dute.
 ",EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
+#11-c-1,notstarted,notstarted,,line,,,,,
 #12-1-1,complete,alcanzado,,bar,FUENTE.oceca,2025-05-08,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 #12-2-1,notstarted,notstarted,,line,,,,,
 #12-2-2,complete,alcanzado,,line,,2025-10-27,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
-#12-3-1,notstarted,notstarted,,line,,,,,
+#12-3-1,complete,noevaluado,,bar,,2025-11-24,,"
+Galdu edo xahututako elikagaitzat hartzen dira hondakin bihurtutako elikagai guztiak.  
+
+Elikagaien artean kontatzen dira jangarriak diren zatiak eta jangarriak ez direnak (adib. arrainen hezurrak).
+",EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 #12-4-1,notapplicable,notapplicable,,line,,,,,
 #12-4-2,complete,retroceso,,line,,2025-08-19,,"
 Tratamendu-eragiketak, Hondakinei buruzko 2008/98/CE Zuzentarauaren arabera. ",EAEn eskuragarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen metadatuak.
@@ -159,7 +164,7 @@ bat etorriz, jarraibide hau gomendagarria da. 2024an, 5.000 eta 20.000 biztanle 
 eta 1.000 eta 5.000 biztanle arteko udalerrien % 25ek Udal Larrialdi Plan homologatua dute. 
 ",EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 #13-2-1,complete,alcanzado,,line,,,True,,
-#13-2-2,complete,alcanzado,,line,FUENTE.oceca,2025-09-26,,,"""Berotegi-efektua eragiten duten gasen urteko guztizko isurketak"" serieak Nazio Batuen metadatuak betetzen ditu.  Horrez gain, Europako helburuekin zerikusia duten beste serie batzuk aurkezten dira. "
+#13-2-2,complete,alcanzado,,line,FUENTE.oceca,2025-11-11,,,"""Berotegi-efektua eragiten duten gasen urteko guztizko isurketak"" serieak Nazio Batuen metadatuak betetzen ditu.  Horrez gain, Europako helburuekin zerikusia duten beste serie batzuk aurkezten dira. "
 #13-3-1,notstarted,notstarted,,line,,,,,
 #13-a-1,notapplicable,notapplicable,,line,,,,,
 #13-b-1,notapplicable,notapplicable,,line,,,,,
@@ -230,7 +235,8 @@ denean.
 Adierazleak 1 baino balio txikiagoa badu, emakumea gutxiegi ordezkatuta dagoela esan nahi du; 
 aldiz, 1 baino balio handiagoa badu, gainordezkatuta dagoela esan nahi du. 
 
-2023tik aurrera ez dira barne hartzen Epaileak, Magistratuak eta Fiskalak. 
+""Administrazio publikoko emakumeen proportzioa, biztanleriako emakumeen proportzioari dagokionez"" seriean 
+2023tik aurrera ez daude barne Epaileak, Magistratuak eta Fiskalak. 
 ",EAEn erabilgarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen metadatuak. Sexuaren araberako ezberdintasunetan zentratzen da
 #16-7-2,notstarted,notstarted,,line,,,,,
 #16-8-1,notapplicable,notapplicable,,line,,,,,
@@ -302,14 +308,15 @@ Elikagaien segurtasunik eza honela puntuatzen da:
 #2-2-1,complete,alcanzado,,line,,,True,,
 #2-2-2,complete,retroceso,,bar,FUENTE.oceca,2025-05-08,,,"EAEn eskuragarri dagoen adierazleak ez ditu Nazio Batuen adierazlearen metadatuak betetzen,  ez baitu gehiegizko pisua kalkulatzeko modu bera erabiltzen, ezta adin-talde bera ere."
 #2-2-3,notstarted,notstarted,,line,,,,,
+#2-2-4,notstarted,notstarted,,line,,,,,
 #2-2-E1,complete,retroceso,,bar,,2025-05-08,,"2013, 2018 eta 2023ko datuak Eusko Jaurlaritzako Osasun Sailaren Osasun inkestakoak dira; 2011 eta 2017koak INEren Espainiako Osasun Inkesta Nazionalekoak; eta 2014 eta 2019koak INEren Europako Osasun inkestakoak.
 ",Helduen obesitate-tasa Europako adierazlearekin aldera daiteke.
 #2-3-1,complete,progreso,,line,,2025-08-04,,,"EAEn eskuragarri dagoen adierazleak ez ditu Nazio Batuen metadatuak betetzen, baina antzeko informazioa ematen du.  "
 #2-3-2,complete,retroceso,,line,,2025-08-04,,,"EAEn eskuragarri dagoen adierazleak ez ditu Nazio Batuen metadatuak betetzen, baina antzeko informazioa ematen du."
-#2-4-1,complete,retroceso,,line,FUENTE.oceca,2025-05-08,,"
+#2-4-1,complete,progreso,,line,FUENTE.oceca,2025-11-11,,"
 ""Hektareako ekoizpen-maila desiragarria edo onargarria lortu duen nekazaritza-azaleraren proportzioa""  seriea interpretatzeko orduan, kontuan hartu behar da adierazle erlatiboa dela; izan ere, ustiategi  baten produktibitate-maila ez dago soilik hektareako duen ekoizpenaren mende, lurralde bereko  eta orientazio tekniko-ekonomiko bereko (nekazaritza, abeltzaintza edo mistoa) ustiategien hektareako  ekoizpenaren mende ere badago.
 ""Diru-sarrera garbien maila desiragarria edo onargarria lortu duen nekazaritza-azaleraren proportzioa""  seriea interpretatzeko orduan, kontuan hartu behar da adierazle absolutua dela, ustiategi baten  errentagarritasun-maila azken hiru urteetan izan dituen diru-sarrera garbien mende baitago soilik.  ",EAEn eskuragarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen adierazlearen metadatuak.
-#2-4-E1,complete,alcanzado,True,line,FUENTE.oceca,2025-06-23,,,"EAEn eskuragarri dagoen adierazlea Europako adierazlearekin aldera daiteke.
+#2-4-E1,complete,alcanzado,True,line,FUENTE.oceca,2025-11-11,,,"EAEn eskuragarri dagoen adierazlea Europako adierazlearekin aldera daiteke.
 "
 #2-4-E2,complete,alcanzado,,line,FUENTE.oceca,2025-08-04,,"
 Nekazaritzari esleitutako amoniako-isuriak ondoko NFR (Nomenclature for Reporting) kodeak dituzten 
@@ -473,7 +480,7 @@ konplexuak interpretatzeko.
 2012ko datua 2011ko hirugarren lauhilekoaren eta 2012ko lehen lauhilekoaren artean egindako azterketari dagokio.
 ",EAEn eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.
 #4-7-1,notstarted,notstarted,,line,,,,,
-#4-a-1,complete,alcanzado,,line,FUENTE.oceca,2025-08-14,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.
+#4-a-1,complete,alcanzado,,line,FUENTE.oceca,2025-11-28,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.
 #4-b-1,notstarted,notstarted,,line,,,,,
 #4-c-1,complete,alcanzado,,line,FUENTE.oceca,2025-05-12,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 #5-1-1,complete,alcanzado,,line,FUENTE.oceca,2025-04-22,,"
@@ -555,7 +562,7 @@ baliokideen kopurua beti da benetako biztanle-kopurua baino handiagoa.
 Adierazle honek 2.000 biztanletik gorako hiri-aglomerazioak bakarrik hartzen ditu kontuan, hiriko hondakin-uren 
 tratamenduari buruzko 91/271/EEE Zuzentarauaren 3. eta 4. artikuluekin bat etorriz.
 ","EAEn eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina antzeko informazioa ematen du. "
-#6-3-2,complete,retroceso,,line,,2025-09-17,,"
+#6-3-2,complete,retroceso,,line,,2025-11-11,,"
 Gainazaleko uren ebaluazioa (egoera ekologikoa) Europako Parlamentuaren eta Kontseiluaren 2000/60/EE 
 Zuzentarauaren arabera egiten da.
 
@@ -590,7 +597,7 @@ Adierazlearen emaitza % 100 da, udalak baitira giza kontsumorako uraren kalitate
 #7-a-1,notstarted,notstarted,,line,,,,,
 #7-b-1,complete,alcanzado,True,line,,2025-05-08,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 #8-1-1,complete,alcanzado,,line,FUENTE.oceca,2025-10-20,,,Eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
-#8-10-1,complete,noevaluado,,line,FUENTE.oceca,2025-06-10,,,"EAEn eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina antzeko informazioa ematen du."
+#8-10-1,complete,noevaluado,,line,FUENTE.oceca,2025-11-10,,,"EAEn eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina antzeko informazioa ematen du."
 #8-10-2,complete,alcanzado,,line,FUENTE.oceca,2025-05-08,,,"EAEn ekuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina antzeko informazioa ematen du."
 #8-2-1,complete,alcanzado,,line,FUENTE.oceca,2025-10-21,,,Eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 #8-3-1,notstarted,notstarted,,line,,,,,
@@ -613,6 +620,7 @@ parekatuak (1/2013 Legegintzako Errege Dekretuaren arabera).
 #8-8-1,complete,progreso,,line,FUENTE.oceca,2025-07-22,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
 #8-8-2,notstarted,notstarted,,line,,,,,
 #8-9-1,complete,noevaluado,,line,,2025-08-04,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.
+#8-9-2,notstarted,notstarted,,line,,,,,
 #8-a-1,notstarted,notstarted,,line,,,,,
 #8-b-1,complete,alcanzado,,line,FUENTE.oceca,2025-08-04,,"
 Autonomia erkidegoetako aurrekontu-likidazioen datu bateratuak araztuta hartzen dira tokiko finantza-bitartekaritzatik  eta NPEtik (nekazaritza-politika erkidea)","EAEn eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina informazio osagarria ematen du."

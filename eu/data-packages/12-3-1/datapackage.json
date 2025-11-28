@@ -12,8 +12,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Urtea"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Elikagai xahuketa",
+                "Elikagai xahuketa per capita",
+                ""
+              ]
+            },
+            "title": "Seriea"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Tonak",
+                "Tonak per capita",
+                ""
+              ]
+            },
+            "title": "Unitatea"
           },
           {
             "name": "Value",
@@ -26,5 +50,5 @@
   ],
   "profile": "data-package",
   "name": "12-3-1",
-  "title": "a) Elikagaien galeren indizea eta b) elikagaiak alferrik galtzearen indizea"
+  "title": "a) Elikagaien galeren indizea eta b) elikagaien xahuketa indizea"
 }

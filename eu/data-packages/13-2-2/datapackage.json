@@ -36,12 +36,12 @@
             "constraints": {
               "enum": [
                 "Sektore energetikoa",
-                "Zerbitzuak",
-                "Garraioa",
-                "Nekazaritza",
-                "Egoitza",
-                "Hondakinak",
                 "Industria",
+                "Garraioa",
+                "Egoitza",
+                "Zerbitzuak",
+                "Nekazaritza",
+                "Hondakinak",
                 ""
               ]
             },

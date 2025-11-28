@@ -1,0 +1,30 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Urtea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Balioa"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "2-2-4",
+  "title": "Elikadura-aniztasunaren gutxieneko atalasearen prebalentzia, biztanleria-taldearen arabera (6-23,9 hilabeteko haurrak eta haurdun ez dauden 15 eta 49 urte bitarteko emakumeak)"
+}

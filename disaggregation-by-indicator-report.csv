@@ -21,6 +21,7 @@ Indicator,Disaggregations,Number of disaggregations
 #11-a-1,"Territorio, Series, Comarca, Municipio",4
 #11-b-2,"Territorio, Series, Comarca, Municipio",4
 #12-2-2,Series,1
+#12-3-1,Series,1
 #12-4-2,"Territorio, Series, Tratamiento",3
 #12-5-1,Territorio,1
 #12-6-1,"Territorio, Series",2
@@ -106,12 +107,12 @@ Indicator,Disaggregations,Number of disaggregations
 #6-1-1,Series,1
 #6-2-1,"Territorio, Series, Comarca, Municipio",4
 #6-3-1,Series,1
-#6-3-2,"Series, Categoria",2
+#6-3-2,"Series, CategoriaUra",2
 #6-4-2,"Territorio, Uso",2
 #6-b-1,Series,1
 #7-b-1,"Territorio, Comarca, Municipio, Energia",4
 #8-1-1,Territorio,1
-#8-10-1,Territorio,1
+#8-10-1,"Territorio, Series",2
 #8-10-2,Sexo,1
 #8-2-1,Territorio,1
 #8-4-2,Series,1
