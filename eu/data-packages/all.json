@@ -1095,7 +1095,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Eurotan",
+                "Euroak",
                 ""
               ]
             },
@@ -3412,7 +3412,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Eurotan",
+                "Euroak",
                 ""
               ]
             },
@@ -5791,7 +5791,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Eurotan",
+                "Euroak",
                 "%",
                 ""
               ]
@@ -6426,7 +6426,7 @@
             "constraints": {
               "enum": [
                 "%",
-                "Milioi eurotan",
+                "Milioi euroak",
                 ""
               ]
             },
@@ -7744,6 +7744,7 @@
                 "Urkabustaiz",
                 "Urnieta",
                 "Urretxu",
+                "Usansolo",
                 "Usurbil",
                 "Valdegovía / Gaubea",
                 "Valle de Trápaga-Trapagaran",
@@ -8142,7 +8143,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Milioi eurotan",
+                "Milioi euroak",
                 "%",
                 ""
               ]
@@ -8445,6 +8446,7 @@
                 "Urkabustaiz",
                 "Urnieta",
                 "Urretxu",
+                "Usansolo",
                 "Usurbil",
                 "Valdegovía / Gaubea",
                 "Valle de Trápaga-Trapagaran",
@@ -11491,7 +11493,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Milioi eurotan",
+                "Milioi euroak",
                 "%",
                 ""
               ]
@@ -13780,6 +13782,67 @@
       "title": "Erabilera publikoko espazio irekietarako erabiltzen den hirien azalera eraikiaren batez besteko proportzioa, sexuaren, adinaren eta desgaitasuna duten pertsonen arabera banakatuta"
     },
     {
+      "path": "9-1-2/data.csv",
+      "name": "9-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Urtea"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Airez garraiatutako bidaiariak",
+                "Airez garraiatutako salgaiak",
+                ""
+              ]
+            },
+            "title": "Seriea"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Araba / Álava",
+                "Bizkaia",
+                "Gipuzkoa",
+                ""
+              ]
+            },
+            "title": "Lurralde historikoa"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bidaiariak milaka",
+                "Kilotonak",
+                ""
+              ]
+            },
+            "title": "Unitatea"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Balioa"
+          }
+        ]
+      },
+      "title": "Garraiatutako bidaiari eta zama bolumena, garraiobidez banakatuta"
+    },
+    {
       "path": "17-13-1/data.csv",
       "name": "17-13-1",
       "profile": "tabular-data-resource",
@@ -14129,7 +14192,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Milioi eurotan",
+                "Milioi euroak",
                 "%",
                 ""
               ]
@@ -15911,30 +15974,6 @@
       "title": "Langileak ordaindutako kontratazioaren kostua, xede-herrialdean jasotako hileko diru-sarreren proportzioan"
     },
     {
-      "path": "9-1-2/data.csv",
-      "name": "9-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Urtea"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Balioa"
-          }
-        ]
-      },
-      "title": "Bidaiariak eta zama garraiatzeko bolumena, garraiobidez banakatuta"
-    },
-    {
       "path": "6-a-1/data.csv",
       "name": "6-a-1",
       "profile": "tabular-data-resource",
@@ -16532,7 +16571,7 @@
           }
         ]
       },
-      "title": "Estatu Batuek urtean dolarretan emandako eta mobilizatutako kopuruak, hemendik 2025era bitartean 100.000 milioi dolarreko mobilizazio kolektiboaren egungo helburuari dagokionez"
+      "title": "Urtean emandako eta mobilizatutako kopurua Estatu Batuetako dolarretan, 2025erako 100.000 milioi dolarreko mobilizazio kolektiborako dagoen helburuarekiko harremanetan"
     },
     {
       "path": "4-b-1/data.csv",

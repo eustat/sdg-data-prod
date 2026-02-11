@@ -12,8 +12,45 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Urtea"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Airez garraiatutako bidaiariak",
+                "Airez garraiatutako salgaiak",
+                ""
+              ]
+            },
+            "title": "Seriea"
+          },
+          {
+            "name": "Territorio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Araba / Álava",
+                "Bizkaia",
+                "Gipuzkoa",
+                ""
+              ]
+            },
+            "title": "Lurralde historikoa"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Bidaiariak milaka",
+                "Kilotonak",
+                ""
+              ]
+            },
+            "title": "Unitatea"
           },
           {
             "name": "Value",
@@ -26,5 +63,5 @@
   ],
   "profile": "data-package",
   "name": "9-1-2",
-  "title": "Bidaiariak eta zama garraiatzeko bolumena, garraiobidez banakatuta"
+  "title": "Garraiatutako bidaiari eta zama bolumena, garraiobidez banakatuta"
 }
