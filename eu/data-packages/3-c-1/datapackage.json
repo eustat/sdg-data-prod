@@ -30,6 +30,18 @@
             "title": "Lanbidea"
           },
           {
+            "name": "SituacLabor",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Erretiratuak",
+                "Ez erretiratuak",
+                ""
+              ]
+            },
+            "title": "Lan-egoera"
+          },
+          {
             "name": "Sexo",
             "type": "string",
             "constraints": {

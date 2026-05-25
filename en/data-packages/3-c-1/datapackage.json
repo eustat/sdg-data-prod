@@ -30,6 +30,18 @@
             "title": "Profession"
           },
           {
+            "name": "SituacLabor",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Retired",
+                "Not retired",
+                ""
+              ]
+            },
+            "title": "Employment status"
+          },
+          {
             "name": "Sexo",
             "type": "string",
             "constraints": {
