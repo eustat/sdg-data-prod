@@ -3,8 +3,8 @@ Indicator,Reporting status,Progress status,Show map,Tipo de gráfico,OCECA,Fecha
 Diru-sarrera baliokidea etxeko diru-sarrera erabilgarria da, etxeko kontsumo-unitate kopuruaren arabera  zatitua, ELGAren (Ekonomia Lankidetza eta Garapenerako Erakundea) baliokidetasun-eskala aldatua erabiliz. Helburua da tamaina eta osaera desberdina duten etxeen arteko bizi-mailak modu parekatuan alderatzea.","EAEn eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina 
 antzeko informazioa ematen du. 
 ",
-#1-2-1,complete,progreso,,line,FUENTE.oceca,2025-04-22,,"Diru-sarrera baliokidea etxeko diru-sarrera erabilgarria da, etxeko  kontsumo-unitate kopuruaren arabera zatitua, ELGAren (Ekonomia Lankidetza eta Garapenerako Erakundea) baliokidetasun-eskala aldatua erabiliz. Eskala horren arabera, 1eko pisua ematen zaio 14 urteko edo gehiagoko lehen pertsonari, 0,5eko pisua 14 urteko edo  gehiagoko gainerako pertsonei, eta 0,3koa, azkenik, 14 urtetik beherakoei. Helburua da tamaina eta osaera desberdina duten etxeen arteko bizi-mailak modu parekatuan alderatzea.",,indicator.relacionados
-#1-2-2,complete,progreso,,line,FUENTE.oceca,2025-05-08,,"Adierazleak irizpide hauetako bat gutxienez betetzen duten pertsonen proportzioa neurtzen du: 
+#1-2-1,complete,progreso,,line,FUENTE.oceca,2026-07-13,,"Diru-sarrera baliokidea etxeko diru-sarrera erabilgarria da, etxeko  kontsumo-unitate kopuruaren arabera zatitua, ELGAren (Ekonomia Lankidetza eta Garapenerako Erakundea) baliokidetasun-eskala aldatua erabiliz. Eskala horren arabera, 1eko pisua ematen zaio 14 urteko edo gehiagoko lehen pertsonari, 0,5eko pisua 14 urteko edo  gehiagoko gainerako pertsonei, eta 0,3koa, azkenik, 14 urtetik beherakoei. Helburua da tamaina eta osaera desberdina duten etxeen arteko bizi-mailak modu parekatuan alderatzea.",,indicator.relacionados
+#1-2-2,complete,progreso,,line,FUENTE.oceca,2026-07-10,,"Adierazleak irizpide hauetako bat gutxienez betetzen duten pertsonen proportzioa neurtzen du: 
 
 Pobrezia erlatiboaren arriskuan dauden pertsonak: kontsumo-unitate bakoitzeko diru-sarrerak 
 medianaren % 60tik behera dituzten pertsonak (ELGA eskala aldatua). 
@@ -64,7 +64,13 @@ udalerriek larrialdietarako udal-planak egin eta onartu behar dituzte.
 bat etorriz, jarraibide hau gomendagarria da. 2024an, 5.000 eta 20.000 biztanle arteko udalerrien % 96k 
 eta 1.000 eta 5.000 biztanle arteko udalerrien % 25ek Udal Larrialdi Plan homologatua dute.
 ",EAEn eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.,
-#1-a-1,notapplicable,notapplicable,,line,,,,,,
+#1-a-1,complete,retroceso,,line,,2026-06-26,,"
+Garapenerako oinarrizko gizarte-zerbitzuak eta elikadura-laguntza, pobrezia murriztera bideratuta daudenak, 
+ELGEren Creditor Reporting System-eko (CRS) helburu-kode hauen bidez definitzen dira: 
+Oinarrizko hezkuntza (CRS 112xx kodeak), Oinarrizko osasuna (CRS 122xx kodeak), Ur-hornidura eta saneamendua 
+(CRS 140xx kodeak), Oinarrizko gizarte-zerbitzuetarako sektore anitzeko laguntza (CRS 16050 kodea), Garapenerako 
+elikagai-laguntza (CRS 52010 kodea). 
+",,
 #1-a-2,complete,alcanzado,,line,,2026-04-22,,"
 Adierazlea gobernu orokorrerako kalkulatzen da, gobernu-unitate desberdinak barne hartzen dituena: 
 gobernu zentrala, gobernu autonomikoa, foru gobernuak eta tokiko gobernuak.
@@ -113,7 +119,7 @@ Adierazleak partzialki betetzen ditu Nazio Batuen adierazlearen metadatuak. Zerg
 #11-5-2,complete,alcanzado,,line,FUENTE.oceca,2025-11-07,,Kalte-ordainak ezbeharra gertatu den lekurako eta urterako esleitzen dira; atzerrian gertatutako  ezbeharrak ez dira sartzen. ,"EAEn eskuragarri dagoen adierazleak ez ditu Nazio Batuen adierazlearen metadatuak betetzen, baina antzeko informazioa eskaintzen du.",
 #11-5-3,notstarted,notstarted,,line,,,,,,
 #11-6-1,complete,alcanzado,,line,"
-""Biztanle bakoitzeko bildutako hiri-hondakinak"" eta ""Tratatutako hiri-hondakinen proportzioa, tratamendu-eragiketaren arabera"" serieak autonomia-erkidegoetako estatistika-organo nagusien  arteko metodologia harmonizatua erabiliz kalkulatu dira. ",2025-08-19,,,"""Instalazio kontrolatuetan bildu eta kudeatutako hiri-hondakinen proportzioa"" serieak
+""Biztanle bakoitzeko bildutako hiri-hondakinak"" eta ""Tratatutako hiri-hondakinen proportzioa, tratamendu-eragiketaren arabera"" serieak autonomia-erkidegoetako estatistika-organo nagusien  arteko metodologia harmonizatua erabiliz kalkulatu dira. ",2026-06-01,,,"""Instalazio kontrolatuetan bildu eta kudeatutako hiri-hondakinen proportzioa"" serieak
  Nazio Batuen adierazlearen metadatuak betetzen ditu",
 #11-6-2,complete,alcanzado,,line,FUENTE.oceca,2025-11-11,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #11-7-1,complete,alcanzado,,line,FUENTE.oceca,2025-05-08,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
@@ -144,9 +150,9 @@ Galdu edo xahututako elikagaitzat hartzen dira hondakin bihurtutako elikagai guz
 Elikagaien artean kontatzen dira jangarriak diren zatiak eta jangarriak ez direnak (adib. arrainen hezurrak).
 ",EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #12-4-1,notapplicable,notapplicable,,line,,,,,,
-#12-4-2,complete,retroceso,,line,,2025-08-19,,"
+#12-4-2,complete,retroceso,,line,,2026-06-01,,"
 Tratamendu-eragiketak, Hondakinei buruzko 2008/98/CE Zuzentarauaren arabera. ",EAEn eskuragarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen metadatuak.,
-#12-5-1,complete,alcanzado,,line,FUENTE.oceca,2025-08-14,,,EAEn eskuragarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen metadatuak.,
+#12-5-1,complete,alcanzado,,line,FUENTE.oceca,2026-06-02,,,EAEn eskuragarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen metadatuak.,
 #12-6-1,complete,alcanzado,,line,FUENTE.oceca,2025-06-11,,,EAEn eskuragarri dagoen adierazleak partzialki betetzen ditu Nazio Batuen metadatuak.,
 #12-7-1,complete,alcanzado,,bar,FUENTE.oceca,2026-05-20,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #12-8-1,notstarted,notstarted,,line,,,,,,
@@ -170,7 +176,7 @@ eta 1.000 eta 5.000 biztanle arteko udalerrien % 25ek Udal Larrialdi Plan homolo
 #13-b-1,notapplicable,notapplicable,,line,,,,,,
 #14-1-1,notstarted,notstarted,,line,,,,,,
 #14-2-1,notstarted,notstarted,,line,,,,,,
-#14-3-1,complete,alcanzado,,line,FUENTE.oceca,2025-05-08,,"Neurketa-laginak autonomia-erkidegoen arabera esleitzeko, lurreko punturik hurbilena hartzen da kontuan.",EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu,
+#14-3-1,complete,retroceso,,line,FUENTE.oceca,2026-06-12,,"Neurketa-laginak autonomia-erkidegoen arabera esleitzeko, lurreko punturik hurbilena hartzen da kontuan.",EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu,
 #14-4-1,notstarted,notstarted,,line,,,,,,
 #14-5-1,complete,alcanzado,,bar,,2025-08-19,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu,
 #14-6-1,notstarted,notstarted,,line,,,,,,
@@ -194,12 +200,12 @@ eta 1.000 eta 5.000 biztanle arteko udalerrien % 25ek Udal Larrialdi Plan homolo
 #15-a-1,notstarted,notstarted,,line,,,,,,
 #15-b-1,notstarted,notstarted,,line,,,,,,
 #15-c-1,notstarted,notstarted,,line,,,,,,
-#16-1-1,complete,alcanzado,,line,,2025-08-04,,"Ertzaintzak eta udaltzaingoek bildutako datuak. Datuek 15.000 biztanletik gorako herrietan erregistratutako  dolozko homizidioak baino ez dituzte biltzen. 
+#16-1-1,complete,alcanzado,,line,,2026-06-05,,"Ertzaintzak eta udaltzaingoek bildutako datuak. Datuek 15.000 biztanletik gorako herrietan erregistratutako  dolozko homizidioak baino ez dituzte biltzen. 
 Europar Batasunean ezarritako oinarrizko tipologia komunak erabiltzen dira (EUROSTAT estatistika-bulegoaren  bidez), herrialdeetako polizia-kidegoek ezagutzen dituzten arau-hauste penalei dagokienez. ",EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #16-1-2,complete,alcanzado,,line,FUENTE.oceca,2026-04-20,,Barne daude EAEn gertatutako atzerriko biztanleen heriotzak.,EAEn eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.,
 #16-1-3,notstarted,notstarted,,line,,,,,,
 #16-1-4,complete,progreso,,bar,FUENTE.oceca,2025-08-19,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
-#16-1-E1,complete,retroceso,,bar,FUENTE.oceca,2025-05-08,,,EAEn erabilgarri dagoen adierazleak EBko adierazlearen metadatuak betetzen ditu.,
+#16-1-E1,complete,retroceso,,bar,FUENTE.oceca,2026-05-27,,,EAEn erabilgarri dagoen adierazleak EBko adierazlearen metadatuak betetzen ditu.,
 #16-10-1,complete,alcanzado,,line,,,True,,,
 #16-10-2,notstarted,notstarted,,line,,,,,,
 #16-2-1,notstarted,notstarted,,line,,,,,,
@@ -290,7 +296,7 @@ Ekonomia Lankidetza eta Garapenerako Antolakundeko (ELGA) Garapenean Laguntzeko 
 #17-8-1,complete,alcanzado,,line,FUENTE.oceca,2025-10-28,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #17-9-1,notstarted,notstarted,,line,,,,,,
 #2-1-1,complete,alcanzado,,line,,,True,,,
-#2-1-2,complete,alcanzado,,line,,2026-04-22,,"Adierazleak elikagaien segurtasun-gabeziaren bat duten pertsonen proportzioa neurtzen du, 
+#2-1-2,complete,retroceso,,line,,2026-04-22,,"Adierazleak elikagaien segurtasun-gabeziaren bat duten pertsonen proportzioa neurtzen du, 
 galdetegi honen arabera: 
 
 - A- Erosten dituzten elikagaiak agortzen zaizkie eta ez dute dirurik gehiago lortzeko 
@@ -328,12 +334,14 @@ jarduerei dagozkienak dira: 3B1a, 3B1b, 3B2, 3B3, 3B4a, 3B4d, 3B4e, 3B4f, 3B4gi,
 #2-5-1,notstarted,notstarted,,line,,,,,,
 #2-5-2,notstarted,notstarted,,line,,,,,,
 #2-a-1,complete,noevaluado,True,line,FUENTE.oceca,2026-05-15,,Udal BPGan argitaratutako datuak Kontuen Europako Sisteman (KSE-2010) ezarritako metodologian oinarrituta egindako zenbatespenen bidez egiten dira.,"Eskuragarri dagoen adierazlea Nazio Batuen adierazlearen serieetako bat da, baina ez da adierazle nagusia.",
-#2-a-2,notstarted,notstarted,,line,,,,,,
+#2-a-2,complete,retroceso,,line,,2026-06-26,,"
+Nekazaritza-sektoreak ELGEko Creditor Reporting System-eko (CRS) 311 serieko kode sektorial guztiak hartzen ditu. 
+",,
 #2-b-1,notstarted,notstarted,,line,,,,,,
 #2-c-1,complete,noevaluado,,bar,"
 ""Elikagaien kontsumo-prezioen indizea"" seriea autonomia-erkidegoetako estatistika-organo nagusien  arteko metodologia harmonizatua erabiliz kalkulatu da. ",2025-06-09,,,"EAEn eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina  informazio osagarria ematen du.",
-#3-1-1,complete,alcanzado,,line,FUENTE.oceca,2025-07-17,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
-#3-1-2,complete,alcanzado,,line,FUENTE.oceca,2025-07-07,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
+#3-1-1,complete,alcanzado,,line,FUENTE.oceca,2026-06-04,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
+#3-1-2,complete,alcanzado,,line,FUENTE.oceca,2026-06-09,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #3-2-1,complete,alcanzado,,line,FUENTE.oceca,2025-07-17,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #3-2-2,complete,alcanzado,,line,FUENTE.oceca,2025-07-17,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #3-3-1,complete,alcanzado,,line,FUENTE.oceca,2026-04-22,,"
@@ -353,7 +361,7 @@ Gaixotasunen Nazioarteko Sailkapenaren kode hauek erabiltzen dira transmititu ez
 - arnas gaixotasun kronikoak (GNS-10eko J30-J98 kodeak)  
 ",EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #3-4-2,complete,retroceso,,line,FUENTE.oceca,2025-07-17,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.,
-#3-4-E1,complete,retroceso,,line,,2025-05-08,,"2023a arte kolon eta ondesteko minbiziaren baheketa-programaren xede-populazioa 50 eta 69 urte bitarteko gizon-emakumeek osatzen zuten. 2023tik aurrera 70 eta 74 urte bitartekoak gehitu zaizkie. 
+#3-4-E1,complete,retroceso,,line,,2026-06-12,,"2023a arte kolon eta ondesteko minbiziaren baheketa-programaren xede-populazioa 50 eta 69 urte bitarteko gizon-emakumeek osatzen zuten. 2023tik aurrera 70 eta 74 urte bitartekoak gehitu zaizkie. 
 ",,
 #3-4-E2,complete,alcanzado,,line,,2026-01-16,,,"Euskal AEn eskuragarri dagoen adierazlea Europako ""Bizi-itxaropena jaiotzean (demo_mlexpec)"" adierazlearekin aldera daiteke. ",
 #3-5-1,complete,noevaluado,,line,FUENTE.oceca,2026-05-12,,"
@@ -374,11 +382,14 @@ jotzen ez diren garraio-istripuak eta istripuaren unean ibilgailutik igotzen edo
 biktimak
 ",EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #3-7-1,complete,noevaluado,,bar,FUENTE.oceca,2025-06-06,,,"EAEn eskuragarri dagoen adierazleak ez ditu zorrotz betetzen Nazio Batuen adierazlearen metadatuak, adin-talde desberdina erabiltzen duelako, baina antzeko informazioa ematen du.",
-#3-7-2,complete,alcanzado,,line,FUENTE.oceca,2025-06-16,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.,
+#3-7-2,complete,alcanzado,,line,FUENTE.oceca,2026-06-09,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.,
 #3-8-1,complete,alcanzado,,line,FUENTE.oceca,2026-04-22,,"
 Ase gabeko behar autoinformatuak esan nahi du pertsonak berak ebaluatzen duela azterketa edo  tratamendu medikurik behar duen (hortzen zainketa izan ezik), baina ez duen lortu edo ez duen bilatu ","EAEn eskuragarri dagoen adierazleak ez ditu betetzen Nazio Batuen adierazlearen metadatuak, baina informazio osagarria ematen du.",
 #3-8-2,complete,retroceso,,line,FUENTE.oceca,2025-05-08,,,Eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
-#3-9-1,notstarted,notstarted,,line,,,,,,
+#3-9-1,complete,alcanzado,,line,,2026-06-25,,"Heriotza goiztiarren kopurua kalkulatzeko, OMEren airearen kalitateari buruzko jarraibide orokorretan (2021) eta Europako Ingurumen Agentziak airearen kutsadurak osasunean dituen eraginei buruz 2025ean egindako informazio-saioan deskribatutako metodologia erabili da","
+EAEn eskuragarri dagoen adierazleak ez ditu Nazio Batuen adierazlearen metadatuak betetzen, baina antzeko informazioa ematen du.
+EAEn eskuragarri dagoen adierazlea Europako adierazlearekin aldera daiteke.
+",
 #3-9-2,complete,alcanzado,,line,,,True,,,
 #3-9-3,complete,alcanzado,,line,FUENTE.oceca,2025-07-17,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #3-a-1,complete,alcanzado,,bar,FUENTE.oceca,2025-08-14,,,"EAEn eskuragarri dagoen adierazleak ez ditu zorrotz betetzen Nazio Batuen adierazlearen metadatuak, baina antzeko informazioa eskaintzen du.",
@@ -390,9 +401,12 @@ biztanleriaren jaiotza-kohorteen arabera kalkulatzen dira txertaketa-estaldurak.
 Ez dira sartzen farmazia-bulegoetan erositako txertoak, ezta osasun-sektore pribatuak emandakoak 
 ere. 
 ",Eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.,
-#3-b-2,notstarted,notstarted,,line,,,,,,
+#3-b-2,complete,retroceso,,line,,2026-06-26,,"
+Ikerketa medikoa ELGEren Creditor Reporting System (CRS) delakoaren 12182 sektoreko kodeari dagokio, 
+eta oinarrizko osasunak 122 serieko kode guztiak hartzen ditu. 
+",,
 #3-b-3,notstarted,notstarted,,line,,,,,,
-#3-c-1,complete,alcanzado,,line,FUENTE.oceca,2026-04-22,,,Eaen eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.,
+#3-c-1,complete,alcanzado,,line,FUENTE.oceca,2026-06-09,,,Eaen eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.,
 #3-d-1,notstarted,notstarted,,line,,,,,,
 #3-d-2,notstarted,notstarted,,line,,,,,,
 #4-1-1,complete,retroceso,,line,FUENTE.oceca,2025-04-22,,"
@@ -483,7 +497,7 @@ konplexuak interpretatzeko.
 2012ko datua 2011ko hirugarren lauhilekoaren eta 2012ko lehen lauhilekoaren artean egindako azterketari dagokio.
 ",EAEn eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.,
 #4-7-1,notstarted,notstarted,,line,,,,,,
-#4-a-1,complete,alcanzado,,line,FUENTE.oceca,2025-11-28,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.,
+#4-a-1,complete,alcanzado,,line,FUENTE.oceca,2026-06-05,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen metadatuak betetzen ditu.,
 #4-b-1,notstarted,notstarted,,line,,,,,,
 #4-c-1,complete,alcanzado,,line,FUENTE.oceca,2026-01-16,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #5-1-1,complete,alcanzado,,line,FUENTE.oceca,2025-04-22,,"
@@ -522,7 +536,7 @@ Emakume enpresaritzat hartzen dira norberaren konturako jarduera ekonomikoa egit
 ",EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu,
 #5-6-1,notstarted,notstarted,,line,,,,,,
 #5-6-2,notstarted,notstarted,,line,,,,,,
-#5-a-1,complete,progreso,,line,,2025-05-08,,"
+#5-a-1,complete,progreso,,line,,2026-05-25,,"
 5.a.1 (a) azpiadierazlea prebalentzia-neurri bat da. Nekazaritzako lurren gaineko jabetza edo 
 eskubide seguruak dituzten pertsonen prebalentzia neurtzen du, sexuaren arabera banakatuta.
 
@@ -620,7 +634,7 @@ parekatuak (1/2013 Legegintzako Errege Dekretuaren arabera).
 #8-5-E1,complete,progreso,True,line,,2025-08-14,,,"EAEn eskuragarri dagoen adierazlea ""Enplegu-tasa sexuaren arabera (sdg_08_30)"" Europako adierazlearekin aldera daiteke",
 #8-6-1,complete,alcanzado,,line,FUENTE.oceca,2025-06-18,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #8-7-1,complete,alcanzado,,line,,,True,,,
-#8-8-1,complete,progreso,,line,FUENTE.oceca,2025-07-22,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
+#8-8-1,complete,progreso,,line,FUENTE.oceca,2026-06-09,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
 #8-8-2,notstarted,notstarted,,line,,,,,,
 #8-9-1,complete,noevaluado,,line,,2026-01-16,,,EAEn eskuragarri dagoen adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,indicator.relacionados
 #8-9-2,notstarted,notstarted,,line,FUENTE.oceca,,,"Pertsona bat turismoaren sektorean okupatuta dagoela ulertuko da, baldin eta EJSN-2009ren arabera bere jarduera
@@ -657,4 +671,4 @@ Teknologia altua
 - 26: Produktu informatiko, elektroniko eta optikoen fabrikazioa 
 - 30.3: Eraikuntza aeronautikoa eta espaziala eta bere makineria 
 ",EAEko adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu.,
-#9-c-1,complete,alcanzado,,line,FUENTE.oceca,2025-08-04,,,EAEko adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu. ,
+#9-c-1,complete,alcanzado,,line,FUENTE.oceca,2026-06-09,,,EAEko adierazleak Nazio Batuen adierazlearen metadatuak betetzen ditu. ,
