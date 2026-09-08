@@ -1,6 +1,6 @@
 Value,eu,es,en,Disaggregation combinations using this value,Number of indicators
 _L_ES_120701_01,Kontratazio publiko jasangarrirako politiken ezarpen maila,Nivel de implementación de las políticas de contratación pública sostenible,Level of implementation of sustainable public procurement (SPP) policies,1,1
-AES_EDUCTRN,Azken 12 hilabeteetan hezkuntza-jardueretan izandako parte-hartze tasa,Tasa de participación en actividades educativas en los últimos 12 meses,Participation rate in educational activities in the last 12 months,3,1
+AES_EDUCTRN,18 eta 64 urte bitarteko biztanleriak azken 12 hilabeteetan hezkuntza-jardueretan izandako parte-hartze tasa,Tasa de participación de la población de entre 18 y 64 años en actividades educativas en los últimos 12 meses,Participation rate of the population aged 18 to 64 in educational activities in the last 12 months,3,1
 AG_FOOD_WST,Elikagai xahuketa,Desperdicio alimentario,Food waste,1,1
 AG_FOOD_WST_PC,Elikagai xahuketa per capita,Desperdicio alimentario per cápita,Food waste per capita,1,1
 AG_FPA_CFPI,Elikagaien prezioen anomalien adierazlea,Indicador de anomalías en los precios de los alimentos,Food price anomaly indicator,11,1
@@ -102,9 +102,9 @@ NY_GDP_MKTP_KD_ZG,BPGren urte arteko aldakuntza-tasa,Tasa de variación interanu
 PD_AGR_LSFP,Elikagaien ekoizle handien produktibitatea,Productividad de los grandes productores de alimentos,Productivity of large food producers,4,1
 PD_AGR_SSFP,Elikagaien ekoizle txikien produktibitatea,Productividad de los pequeños productores de alimentos,Productivity of small food producers,4,1
 POSTFIS_DIS_INC,Diru-sarrera erabilgarri baliokidearen Gini indizea (postfiskala),Índice de Gini del ingreso disponible equivalente (postfiscal),Gini coefficient of equivalent disposable income (post-fiscal),1,1
-SE_ADT_EDUCTRN,Irakaskuntzan eta prestakuntza akademikoan eta ez-akademikoan izandako parte-hartze tasa azken 4 asteetan,Tasa de participación en la enseñanza y formación académica y no académica en las últimas 4 semanas,Participation rate in formal and non-formal education and training in the last 4 weeks,36,1
+SE_ADT_EDUCTRN,15 eta 64 urte bitarteko biztanleriak azken 4 asteetan irakaskuntzan eta prestakuntza akademikoan eta ez-akademikoan izandako parte-hartze tasa,Tasa de participación de la población de entre 15 y 64 años en la enseñanza y formación académica y no académica en las últimas 4 semanas,Participation rate of th populatión aged 15 to 64 in formal and non-formal education and training in the last 4 weeks,36,1
 SE_TOT_CPLR,Amaiera-tasa (beheko bigarren hezkuntza eta goi-mailako bigarren hezkuntza),Tasa de finalización (educación secundaria inferior y educación secundaria superior),Completion rate (lower secondary and upper secondary education),2,1
-SE_TRA_GRDL,"Eskatutako gutxieneko kalifikazioak dituzten irakasleen proportzioa, hezkuntza-mailaren arabera banakatuta","Proporción de docentes con las calificaciones mínimas requeridas, desglosada por nivel educativo","Proportion of teachers with the minimum required qualifications, broken down by educational level",4,1
+SE_TRA_GRDL,"Eskatutako gutxieneko kalifikazioak dituzten irakasleen proportzioa, hezkuntza-mailaren arabera banakatuta","Proporción de docentes con las calificaciones mínimas requeridas, desglosada por nivel educativo","Proportion of teachers with the minimum required qualifications, broken down by educational level",5,1
 SG_DMK_JDC,"Botere judizialeko emakumeen proportzioa, biztanleriako emakumeen proportzioari dagokionez",Proporción de mujeres en el poder judicial en relación con la proporción de mujeres en la población,Proportion of women in the judiciary relative to the proportion of women in the population,1,1
 SG_DMK_PARLMP_LC,"Legebiltzarreko emakumeen proportzioa, biztanleriako emakumeen proportzioari dagokionez",Proporción de mujeres en el parlamento en relación con la proporción de mujeres en la población,Proportion of women in parliament relative to the proportion of women in the population,1,1
 SG_DMK_PSRVC,"Administrazio publikoko emakumeen proportzioa, biztanleriako emakumeen proportzioari dagokionez",Proporción de mujeres en la administración pública en relación con la proporción de mujeres en la población,Proportion of women in public administration relative to the proportion of women in the population,56,1
@@ -125,9 +125,10 @@ SI_AGR_LSFP,Elikagaien ekoizle handien batez besteko diru-sarrerak,Ingresos medi
 SI_AGR_SSFP,Elikagaien ekoizle txikien batez besteko diru-sarrerak,Ingresos medios de los pequeños productores de alimentos,Average income of small food producers,4,1
 SI_COV_PENSN,Erretirorako legezko adina gainditu eta pentsioa jasotzen duten biztanleen proportzioa,Proporción de la población que supera la edad legal de jubilación y recibe una pensión,Proportion of the population above legal retirement age receiving a pension,12,1
 SI_COV_UEMP,Langabezia-prestazioak jasotzen dituzten langabeen proportzioa,Proporción de personas desempleadas que reciben prestaciones por desempleo,Proportion of unemployed people receiving unemployment benefits,12,1
+SL_CPA_YEMP,Gazteen enplegurako estrategia publikoen ezarpen maila,Nivel de implantación de estrategias públicas para el empleo de las personas jóvenes,Level of implementation of public strategies for youth employment,1,1
 SL_EMP_EARN,Orduko batez besteko diru-sarrera,Ingreso medio por hora,Average hourly earnings,5,1
-SL_EMP_FTLINJUR,Lesio okupazional hilgarriak, Lesiones ocupacionales mortales ,Fatal occupational injuries,12,1
-SL_EMP_INJUR,Lesio okupazional ez-hilgarriak, Lesiones ocupacionales no mortales ,Non-fatal occupational injuries,12,1
+SL_EMP_FTLINJUR,Lesio okupazional hilgarriak,Lesiones ocupacionales mortales,Fatal occupational injuries,12,1
+SL_EMP_INJUR,Lesio okupazional ez-hilgarriak,Lesiones ocupacionales no mortales,Non-fatal occupational injuries,12,1
 SL_TLF_UEM,Langabezia-tasa,Tasa de desempleo,Unemployment rate,4,1
 SP_ACS_BSRVH2O,Edateko ura duten etxebizitzen proportzioa,Proporción de viviendas con agua corriente,Proportion of households with running water,550,2
 SP_ACS_BSRVSAN,Bainugela duten etxebizitzen proportzioa,Proporción de viviendas con baño,Proportion of households with a toilet,550,2

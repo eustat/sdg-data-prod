@@ -20,6 +20,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Gazteen enplegurako estrategia publikoen ezarpen maila",
                 "Administrazio publiko autonomikoek enplegua sustatzeko egiten duten gastua",
                 "Administrazio publiko autonomikoek enplegua sustatzeko egiten duten gastua, gastu guztiarekiko",
                 ""
@@ -32,6 +33,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Indizea",
                 "Milioi euroak",
                 "%",
                 ""
@@ -50,5 +52,5 @@
   ],
   "profile": "data-package",
   "name": "8-b-1",
-  "title": "Estrategia nazional antolatu eta abian bat dago gazteen enplegurako, estrategia independente gisa edo enplegurako estrategia nazional baten parte gisa"
+  "title": "Estrategia nazional antolatua abian dago gazteen enplegurako, estrategia independente gisa edo enplegurako estrategia nazional baten parte gisa"
 }

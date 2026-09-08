@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Participation rate in educational activities in the last 12 months",
-                "Participation rate in formal and non-formal education and training in the last 4 weeks",
+                "Participation rate of the population aged 18 to 64 in educational activities in the last 12 months",
+                "Participation rate of th populatión aged 15 to 64 in formal and non-formal education and training in the last 4 weeks",
                 ""
               ]
             },
@@ -44,9 +44,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "18-64 years",
                 "15-24 years",
-                "15-64 years",
                 "25-64 years",
                 ""
               ]
